@@ -1,0 +1,266 @@
+# Papers Catalog - NexGen Therapeutics Research Library
+
+papers:
+  - id: "PAPER-001"
+    title: "Discovery of a Hydroxylamine-Based Brain-Penetrant EGFR Inhibitor"
+    authors: "Hill J, Jones RM, Crich D"
+    journal: "J Med Chem"
+    year: 2023
+    doi: "10.1021/acs.jmedchem.3c01669"
+    
+    summary: "Brain-penetrant EGFR inhibitor using hydroxylamine bioisostere. Active against osimertinib-resistant NSCLC with CNS metastases."
+    
+    key_compound:
+      name: "Compound 9"
+      target: "EGFR"
+      potency: "IC50 3-7 nM (cell lines)"
+      selectivity: "12-33× vs EGFR-WT"
+      key_property: "Brain Kp,uu 0.33-0.45, low efflux"
+    
+    relevance_to_nexgen:
+      program: "EGFR Program (NGT-147)"
+      researchers: ["Sarah Chen", "Linda Wu", "Jonathan Hughes", "Rachel Foster"]
+      application: "Brain penetration strategy, efflux optimization"
+    
+    key_methods:
+      - "N-O bond formation synthesis (multigram scale)"
+      - "Caco-2 and MDCK-MDR1 permeability assays"
+      - "Brain:plasma ratio PK studies"
+      - "Intracranial PDX efficacy (HCC827-luc)"
+    
+    key_findings:
+      - "Hydroxylamine reduces pKa, improves BBB penetration"
+      - "14× better Caco-2 permeability vs gefitinib"
+      - "Active vs L858R/C797S and del19/C797S mutations"
+      - "Non-mutagenic, non-genotoxic"
+    
+    tags: ["EGFR", "brain-penetration", "bioisostere", "osimertinib-resistant", "CNS-metastases"]
+
+  - id: "PAPER-002"
+    title: "BLU-222 CDK2 Inhibitor in CCNE1-Aberrant Ovarian/Endometrial Tumors"
+    authors: "House NC, Brown VE, Chen M, et al"
+    journal: "Cancer Res"
+    year: 2025
+    doi: "10.1158/0008-5472.CAN-24-2360"
+    
+    summary: "Selective CDK2 inhibitor with biomarker signature (CCNE1/Rb/p16) for patient selection. Effective combinations with CDK4/6i and chemotherapy."
+    
+    key_compound:
+      name: "BLU-222"
+      target: "CDK2"
+      potency: "IC50 2.6 nM (enzymatic), 4.2 nM (cellular)"
+      selectivity: ">90× vs CDK1, >400× vs CDK4/6"
+      key_property: "S(10) 0.045 kinome selectivity"
+    
+    relevance_to_nexgen:
+      program: "CDK2 Program"
+      researchers: ["Sarah Chen", "Rachel Foster", "Linda Wu", "Amit Patel"]
+      application: "Biomarker-driven patient selection, combination strategies"
+    
+    key_methods:
+      - "CRISPR whole-genome screen (80K library, 100M cells)"
+      - "CyQUANT proliferation (5-day, 10-point dose)"
+      - "AlphaLISA pRb phosphorylation (Thr821/826, Ser807/811)"
+      - "PDX studies with biomarker stratification"
+      - "SynergyFinder combination analysis"
+    
+    key_findings:
+      - "Biomarker signature: CCNE1-high + Rb-intact + p16-high (monotherapy)"
+      - "p16-low tumors respond to BLU-222 + CDK4/6i (ribociclib)"
+      - "Chemosensitization: BLU-222 + carboplatin/paclitaxel overcomes resistance"
+      - "RB1 and CDKN2A knockouts confer resistance"
+    
+    tags: ["CDK2", "CCNE1", "biomarker-signature", "Rb", "p16", "ribociclib", "chemotherapy-combination"]
+
+  - id: "PAPER-003"
+    title: "Targeting Autophagy-Related Protein Kinases"
+    authors: "Xiang H, Zhang J, Lin C, Zhang L, Liu B, Ouyang L"
+    journal: "Acta Pharm Sin B"
+    year: 2020
+    doi: "10.1016/j.apsb.2019.10.003"
+    
+    summary: "Review of 49 autophagy-related kinases and their small-molecule modulators. Covers PI3K/AKT/mTOR/ULK1 signaling and therapeutic applications."
+    
+    key_compound:
+      name: "Multiple (review)"
+      target: "mTOR, ULK1, AMPK, PI3K/AKT"
+      potency: "Varies by compound"
+      selectivity: "Varies by compound"
+      key_property: "Autophagy induction or inhibition"
+    
+    relevance_to_nexgen:
+      program: "All programs (mechanism studies)"
+      researchers: ["Amit Patel", "Rachel Foster", "Linda Wu"]
+      application: "Autophagy monitoring, combination rationale, resistance mechanisms"
+    
+    key_methods:
+      - "LC3-II/LC3-I Western blot"
+      - "p62/SQSTM1 degradation assay"
+      - "Autophagic flux measurement"
+      - "Kinase phosphorylation site mapping"
+    
+    key_findings:
+      - "49 autophagy kinases identified by GO analysis"
+      - "mTOR/ULK1 central to autophagy initiation"
+      - "AMPK activators (metformin, A-769662) induce autophagy"
+      - "ULK1 activators (LYN-1604, BL-918) for TNBC and Parkinson's"
+      - "Autophagy dual role: cytoprotective vs cytotoxic in cancer"
+    
+    tags: ["autophagy", "mTOR", "ULK1", "AMPK", "kinase-review", "combination-therapy"]
+
+  - id: "PAPER-004"
+    title: "Molecular Glues Targeting BTK for Degradation"
+    authors: "Henning NJ, Boike L, Spradlin JN, et al"
+    journal: "Nature"
+    year: 2025
+    doi: "10.1038/s41586-025-09000-3"
+    
+    summary: "Discovery of NRX-0492 molecular glue that induces BTK degradation via CRBN E3 ligase. Active in ibrutinib-resistant CLL/MCL, spares wild-type BTK in healthy B cells."
+    
+    key_compound:
+      name: "NRX-0492"
+      target: "BTK (degradation)"
+      potency: "DC50 10-20 nM (cell lines), Dmax >90%"
+      selectivity: "Spares BTK-WT, selective for C481S mutant"
+      key_property: "Oral bioavailable, tumor regression in vivo"
+    
+    relevance_to_nexgen:
+      program: "BTK Degrader Program"
+      researchers: ["Jennifer Martinez", "Sarah Chen", "Rachel Foster", "Linda Wu"]
+      application: "PROTAC/molecular glue design, degradation assays, resistance mutations"
+    
+    key_methods:
+      - "Chemoproteomic profiling (TMT-MS)"
+      - "CRBN-dependent degradation assays"
+      - "Degradation kinetics (DC50, Dmax, t1/2)"
+      - "Patient-derived CLL cells (ibrutinib-resistant)"
+      - "In vivo BTK C481S xenograft models"
+    
+    key_findings:
+      - "Molecular glue (not bifunctional PROTAC) induces BTK-CRBN interaction"
+      - "Active against ibrutinib-resistant BTK C481S mutation"
+      - "Spares BTK-WT, reducing on-target toxicity risk"
+      - "Oral dosing achieves tumor regression in CLL xenografts"
+      - "Ternary complex structure reveals molecular glue interface"
+    
+    tags: ["BTK", "molecular-glue", "PROTAC", "degrader", "CRBN", "ibrutinib-resistant", "CLL", "MCL"]
+
+# Unified experimental protocols
+
+standard_assays:
+  proliferation:
+    - name: "CyQUANT"
+      duration: "5 days (120h)"
+      dose_range: "10-point, 4-fold dilution"
+      readout: "GI50, IC50"
+      papers: ["PAPER-002"]
+    
+    - name: "IncuCyte"
+      duration: "Until 100% confluence"
+      readout: "Real-time confluence"
+      papers: ["PAPER-002"]
+  
+  target_engagement:
+    - name: "AlphaLISA (pRb)"
+      sites: "Thr821/826 (CDK2), Ser807/811 (CDK4/6)"
+      lysate: "5 μg"
+      papers: ["PAPER-001", "PAPER-002"]
+    
+    - name: "NanoBRET"
+      readout: "Kinase occupancy"
+      papers: ["PAPER-002"]
+  
+  degradation:
+    - name: "Western blot time course"
+      timepoints: "0-24h"
+      readout: "Protein levels, DC50, Dmax"
+      papers: ["PAPER-004"]
+    
+    - name: "Proteomic profiling (TMT-MS)"
+      purpose: "Selectivity, off-targets"
+      papers: ["PAPER-004"]
+  
+  permeability:
+    - name: "Caco-2"
+      readout: "Papp (A-B, B-A), efflux ratio"
+      papers: ["PAPER-001"]
+    
+    - name: "MDCK-MDR1"
+      readout: "P-gp efflux"
+      papers: ["PAPER-001"]
+  
+  in_vivo:
+    - name: "CDX efficacy"
+      dosing: "PO, b.i.d. or q.d."
+      duration: "2-8 weeks"
+      readout: "Tumor volume, TGI%"
+      papers: ["PAPER-001", "PAPER-002", "PAPER-004"]
+    
+    - name: "PDX efficacy"
+      models: "Patient-derived, biomarker-stratified"
+      readout: "TGI%, biomarker correlation"
+      papers: ["PAPER-001", "PAPER-002"]
+    
+    - name: "Brain penetration PK"
+      sampling: "7 timepoints, n=3/timepoint"
+      readout: "Brain:plasma, Kp,uu"
+      papers: ["PAPER-001"]
+
+# Cross-paper insights
+
+research_themes:
+  - theme: "Resistance Mechanisms"
+    papers: ["PAPER-001", "PAPER-002", "PAPER-004"]
+    insight: "Mutation-driven (C797S, C481S) and pathway-driven (Rb/p16 loss)"
+    nexgen_application: "Design compounds for known resistance, use CRISPR screens"
+    
+  - theme: "Biomarker-Driven Medicine"
+    papers: ["PAPER-002", "PAPER-004"]
+    insight: "Protein markers (Rb/p16) and mutations (C481S) predict response"
+    nexgen_application: "Develop Western/IHC-based patient selection assays"
+    
+  - theme: "Combination Therapy"
+    papers: ["PAPER-002", "PAPER-003"]
+    insight: "Mechanistic combinations (CDK2+CDK4/6i, kinase+autophagy modulators)"
+    nexgen_application: "Synergy matrices, mechanistic rationale for combos"
+    
+  - theme: "Degradation vs Inhibition"
+    papers: ["PAPER-004"]
+    insight: "Degraders can achieve selectivity via mutation-dependent binding"
+    nexgen_application: "BTK degrader program, molecular glue vs bifunctional PROTAC"
+    
+  - theme: "CNS Penetration"
+    papers: ["PAPER-001"]
+    insight: "pKa modulation, efflux avoidance critical for BBB"
+    nexgen_application: "EGFR program (NGT-147), future CNS-targeted programs"
+
+# Key lessons for NexGen
+
+actionable_insights:
+  drug_design:
+    - "Use bioisosteres (hydroxylamine) to modulate pKa and efflux (PAPER-001)"
+    - "Design for resistance mutations early (C797S, C481S) (PAPER-001, PAPER-004)"
+    - "Consider degradation vs inhibition for selectivity (PAPER-004)"
+    - "Optimize brain penetration via physicochemical properties (PAPER-001)"
+    
+  biomarkers:
+    - "Use CRISPR screens to identify biomarkers (RB1, CDKN2A) (PAPER-002)"
+    - "Develop multi-marker signatures (CCNE1/Rb/p16) (PAPER-002)"
+    - "Stratify PDX models by biomarkers for validation (PAPER-002)"
+    
+  assays:
+    - "Implement degradation assays (DC50, Dmax, kinetics) (PAPER-004)"
+    - "Use patient-derived cells for validation (CLL, PDX) (PAPER-002, PAPER-004)"
+    - "Monitor autophagy as mechanism/resistance (LC3, p62) (PAPER-003)"
+    
+  combinations:
+    - "Test mechanistic combinations (CDK2+CDK4/6i in p16-low) (PAPER-002)"
+    - "Evaluate chemosensitization (CDK2i + carboplatin/paclitaxel) (PAPER-002)"
+    - "Consider autophagy modulation in combinations (PAPER-003)"
+
+metadata:
+  version: "2.0"
+  total_papers: 4
+  date_created: "2025-01-XX"
+  primary_targets: ["EGFR", "CDK2", "BTK", "mTOR", "ULK1"]
+  primary_indications: ["NSCLC", "ovarian cancer", "endometrial cancer", "CLL", "MCL"]
