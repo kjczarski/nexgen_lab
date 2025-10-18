@@ -1,0 +1,578 @@
+documents:
+  # Experiments
+  - id: "EXP-001"
+    filename: "NGT-147_synthesis_log_2025-03-12.txt"
+    owner: "EMP001"
+    description: "Handwritten lab notebook entry detailing NGT-147 synthesis breakthrough"
+    category: "experiments"
+    teams: ["Medicinal Chemistry Team"]
+    relations:
+      - "EXP-002"  # EGFR compound screening
+      - "EXP-003"  # BTK degradation breakthrough
+      - "EXP-004"  # DMPK brain penetration study
+      - "EXP-005"  # NGT series comprehensive data
+      - "EXP-006"  # NGT-147 scale-up synthesis
+      - "EXP-007"  # Failed experiment log
+      - "EXP-008"  # BTK-004 synthesis
+    tags: ["synthesis", "NGT-147", "breakthrough", "lab-notebook"]
+
+  - id: "EXP-008"
+    filename: "BTK-004_synthesis_2025-06-05.txt"
+    owner: "EMP002"
+    description: "Lab notebook entry for BTK-004 synthesis with 8-carbon linker"
+    category: "experiments"
+    teams: ["Medicinal Chemistry Team"]
+    relations:
+      - "EXP-003"  # BTK degradation breakthrough
+      - "COM-003"  # BTK-004 FEP results email
+      - "MEE-004"  # CDK2 hit-to-lead meeting
+    tags: ["synthesis", "BTK-004", "PROTAC", "8-carbon-linker"]
+
+  - id: "EXP-009"
+    filename: "BTK-003_brain_penetration_study_2025-05-12.txt"
+    owner: "EMP002"
+    description: "Lab notebook entry for BTK-003 brain penetration study showing unexpected CNS activity"
+    category: "experiments"
+    teams: ["Medicinal Chemistry Team"]
+    relations:
+      - "COM-004"  # BTK-003 PK analysis email
+      - "PRJ-004"  # DMPK weekly report
+      - "COL-002"  # Internal PROTAC-DMPK collaboration
+    tags: ["brain-penetration", "BTK-003", "CNS", "PROTAC", "unexpected"]
+
+  - id: "EXP-002"
+    filename: "EGFR_compound_screening_batch_47.csv"
+    owner: "EMP047"
+    description: "CSV data from EGFR compound screening batch 47 with IC50 values"
+    category: "experiments"
+    teams: ["Screening & Assays Team"]
+    relations:
+      - "EXP-001"  # NGT-147 synthesis
+      - "MEE-001"  # EGFR Go/No-Go meeting
+    tags: ["screening", "EGFR", "IC50", "batch-47"]
+
+  - id: "EXP-003"
+    filename: "BTK_degradation_breakthrough_2025-06-18.txt"
+    owner: "EMP002"
+    description: "Breakthrough discovery of BTK-003 PROTAC with 85% degradation"
+    category: "experiments"
+    teams: ["Medicinal Chemistry Team"]
+    relations:
+      - "EXP-001"  # NGT-147 synthesis
+      - "MEE-002"  # BTK PROTAC brainstorming
+      - "COL-001"  # MIT collaboration
+    tags: ["PROTAC", "BTK", "degradation", "breakthrough"]
+
+  - id: "EXP-004"
+    filename: "DMPK_brain_penetration_study_2025-04-15.txt"
+    owner: "EMP022"
+    description: "DMPK study showing NGT-147 brain penetration with 1.8 ratio"
+    category: "experiments"
+    teams: ["DMPK Team"]
+    relations:
+      - "EXP-001"  # NGT-147 synthesis
+      - "COM-001"  # NGT-147 PDX results email
+    tags: ["DMPK", "brain-penetration", "NGT-147", "pharmacokinetics"]
+
+  - id: "EXP-005"
+    filename: "NGT_series_comprehensive_data.csv"
+    owner: "Sarah Chen"
+    description: "Comprehensive database of 30+ NGT compounds with properties and activities"
+    category: "experiments"
+    teams: ["Medicinal Chemistry Team"]
+    relations:
+      - "EXP-001"  # NGT-147 synthesis
+      - "EXP-006"  # NGT-147 scale-up
+    tags: ["compound-database", "NGT-series", "properties", "activities"]
+
+  - id: "EXP-006"
+    filename: "NGT-147_scale-up_synthesis_2025-07-01.txt"
+    owner: "Sarah Chen"
+    description: "Detailed lab notebook entry for NGT-147 scale-up from 100mg to 10g"
+    category: "experiments"
+    teams: ["Medicinal Chemistry Team"]
+    relations:
+      - "EXP-001"  # NGT-147 synthesis
+      - "EXP-005"  # NGT series data
+      - "REG-001"  # Patent application
+    tags: ["scale-up", "NGT-147", "synthesis", "IND-preparation"]
+
+  - id: "EXP-007"
+    filename: "Failed_Experiment_Log_2025_Q3.csv"
+    owner: "EMP048"
+    description: "CSV log of failed experiments in Q3 2025 with failure reasons"
+    category: "experiments"
+    teams: ["Screening & Assays Team"]
+    relations:
+      - "QUA-001"  # QC deviation report
+    tags: ["failed-experiments", "Q3-2025", "learning", "troubleshooting"]
+
+  # Meetings
+  - id: "MEE-001"
+    filename: "EGFR_GoNoGo_meeting_2025-05-15.md"
+    owner: "EMP036"
+    description: "Critical Go/No-Go meeting minutes for EGFR program decision"
+    category: "meetings"
+    teams: ["Discovery Division Leadership"]
+    relations:
+      - "EXP-001"  # NGT-147 synthesis
+      - "EXP-002"  # EGFR screening
+      - "PRO-001"  # CDK2 HTS results
+    tags: ["Go/No-Go", "EGFR", "decision", "leadership"]
+
+  - id: "MEE-004"
+    filename: "CDK2_hit_to_lead_meeting_2025-09-10.md"
+    owner: "EMP036"
+    description: "CDK2 hit-to-lead optimization meeting with strategy and budget approval"
+    category: "meetings"
+    teams: ["Discovery Division Leadership", "Medicinal Chemistry Team", "Screening & Assays Team"]
+    relations:
+      - "EXP-008"  # BTK-004 synthesis
+      - "PRO-001"  # CDK2 HTS results
+      - "PRO-005"  # LCMS bioanalytical method
+    tags: ["hit-to-lead", "CDK2", "optimization", "budget"]
+
+  - id: "MEE-002"
+    filename: "BTK_PROTAC_brainstorming_2025-05-22.txt"
+    owner: "EMP036"
+    description: "Informal brainstorming session for BTK PROTAC program expansion"
+    category: "meetings"
+    teams: ["Medicinal Chemistry Team", "Biology & Pharmacology Team"]
+    relations:
+      - "EXP-003"  # BTK degradation breakthrough
+      - "COL-001"  # MIT collaboration
+    tags: ["brainstorming", "BTK", "PROTAC", "expansion"]
+
+  - id: "MEE-003"
+    filename: "Weekly_discovery_team_2025-08-28.txt"
+    owner: "EMP036"
+    description: "Weekly discovery team meeting notes with project updates"
+    category: "meetings"
+    teams: ["Discovery Division"]
+    relations:
+      - "EXP-001"  # NGT-147 synthesis
+      - "EXP-003"  # BTK breakthrough
+      - "PRO-001"  # CDK2 HTS
+    tags: ["weekly", "discovery", "updates", "team"]
+
+  # Protocols
+  - id: "PRO-001"
+    filename: "CDK2_HTS_results_summary_2025-08-28.md"
+    owner: "EMP047"
+    description: "Summary of High-Throughput Screening results for CDK2 inhibitor program"
+    category: "protocols"
+    teams: ["Screening & Assays Team"]
+    relations:
+      - "EXP-002"  # EGFR screening
+      - "MEE-003"  # Weekly discovery team
+    tags: ["HTS", "CDK2", "screening", "results"]
+
+  - id: "PRO-002"
+    filename: "PDX_model_establishment_protocol_v2.1.md"
+    owner: "EMP004"
+    description: "Detailed protocol for establishing Patient-Derived Xenograft models"
+    category: "protocols"
+    teams: ["Biology & Pharmacology Team"]
+    relations:
+      - "COM-001"  # NGT-147 PDX results email
+      - "EXP-004"  # DMPK brain penetration
+    tags: ["PDX", "protocol", "models", "establishment"]
+
+  - id: "PRO-003"
+    filename: "NanoBRET_target_engagement_protocol_v1.3.md"
+    owner: "EMP035"
+    description: "Protocol for NanoBRET target engagement assays"
+    category: "protocols"
+    teams: ["Biology & Pharmacology Team"]
+    relations:
+      - "EXP-003"  # BTK degradation breakthrough
+    tags: ["NanoBRET", "target-engagement", "protocol", "assays"]
+
+  - id: "PRO-004"
+    filename: "FEP_calculation_workflow_v2.0.md"
+    owner: "EMP006"
+    description: "Free Energy Perturbation calculation workflow protocol"
+    category: "protocols"
+    teams: ["Computational Chemistry Team"]
+    relations:
+      - "EXP-001"  # NGT-147 synthesis
+      - "EXP-005"  # NGT series data
+    tags: ["FEP", "computational", "workflow", "protocol"]
+
+  - id: "PRO-005"
+    filename: "LCMS_bioanalytical_method_v3.1.md"
+    owner: "EMP020"
+    description: "LC-MS/MS bioanalytical method development and validation protocol"
+    category: "protocols"
+    teams: ["DMPK Team"]
+    relations:
+      - "MEE-004"  # CDK2 hit-to-lead meeting
+      - "EXP-001"  # NGT-147 synthesis
+      - "EXP-003"  # BTK degradation breakthrough
+    tags: ["LCMS", "bioanalytical", "method", "validation"]
+
+  # Communications
+  - id: "COM-001"
+    filename: "NGT-147_PDX_results_email_2025-04-15.txt"
+    owner: "EMP004"
+    description: "Excited email about NGT-147 PDX breakthrough results"
+    category: "communications"
+    teams: ["Biology & Pharmacology Team"]
+    relations:
+      - "EXP-001"  # NGT-147 synthesis
+      - "EXP-004"  # DMPK brain penetration
+      - "PRO-002"  # PDX protocol
+    tags: ["email", "PDX", "NGT-147", "breakthrough"]
+
+  - id: "COM-002"
+    filename: "NGT-147_crystal_structure_email_2025-03-20.txt"
+    owner: "EMP006"
+    description: "Email about NGT-147 crystal structure determination"
+    category: "communications"
+    teams: ["Computational Chemistry Team"]
+    relations:
+      - "EXP-001"  # NGT-147 synthesis
+      - "PRO-004"  # FEP workflow
+    tags: ["email", "crystal-structure", "NGT-147", "structural-biology"]
+
+  - id: "COM-003"
+    filename: "BTK-004_FEP_results_email_2025-06-08.txt"
+    owner: "EMP006"
+    description: "Excited email about BTK-004 FEP calculation results showing improved binding"
+    category: "communications"
+    teams: ["Computational Chemistry Team"]
+    relations:
+      - "EXP-008"  # BTK-004 synthesis
+      - "EXP-003"  # BTK degradation breakthrough
+      - "PRO-004"  # FEP workflow
+    tags: ["email", "FEP", "BTK-004", "computational", "binding"]
+
+  - id: "COM-004"
+    filename: "BTK-003_PK_analysis_email_2025-05-08.txt"
+    owner: "EMP022"
+    description: "Email analyzing BTK-003 PK data and suggesting brain penetration testing"
+    category: "communications"
+    teams: ["DMPK Team"]
+    relations:
+      - "EXP-009"  # BTK-003 brain penetration study
+      - "PRJ-004"  # DMPK weekly report
+      - "COL-002"  # Internal PROTAC-DMPK collaboration
+    tags: ["email", "PK-analysis", "BTK-003", "brain-penetration", "DMPK"]
+
+  # Projects
+  - id: "PRJ-001"
+    filename: "NGT-112_deprioritization_decision_2025-02-15.md"
+    owner: "EMP036"
+    description: "Documentation of decision to deprioritize compound NGT-112"
+    category: "projects"
+    teams: ["Discovery Division Leadership"]
+    relations:
+      - "EXP-005"  # NGT series data
+    tags: ["deprioritization", "NGT-112", "decision", "forensic"]
+
+  - id: "PRJ-002"
+    filename: "IND_preparation_timeline_2025-09-30.txt"
+    owner: "EMP019"
+    description: "Timeline for IND preparation for NGT-147"
+    category: "projects"
+    teams: ["Preclinical Development Division"]
+    relations:
+      - "EXP-001"  # NGT-147 synthesis
+      - "EXP-006"  # NGT-147 scale-up
+      - "REG-002"  # FDA pre-IND meeting
+    tags: ["IND", "timeline", "NGT-147", "regulatory"]
+
+  - id: "PRJ-003"
+    filename: "Project_Aurora_target_validation_2025-08-20.md"
+    owner: "EMP008"
+    description: "Comprehensive target validation report for Aurora kinase A inhibitor program"
+    category: "projects"
+    teams: ["Computational Sciences Division"]
+    relations:
+      - "MEE-004"  # CDK2 hit-to-lead meeting
+      - "FIN-002"  # Financial report Q3
+    tags: ["Aurora", "target-validation", "kinase", "oncology"]
+
+  - id: "PRJ-004"
+    filename: "DMPK_weekly_report_2025-05-15.md"
+    owner: "EMP022"
+    description: "Weekly DMPK report highlighting brain penetration model development and BTK-003 analysis"
+    category: "projects"
+    teams: ["DMPK Team"]
+    relations:
+      - "COM-004"  # BTK-003 PK analysis email
+      - "EXP-009"  # BTK-003 brain penetration study
+      - "COL-002"  # Internal PROTAC-DMPK collaboration
+    tags: ["DMPK", "weekly-report", "brain-penetration", "BTK-003", "models"]
+
+  # Resources
+  - id: "RES-001"
+    filename: "lab_equipment_maintenance_log_Q3_2025.txt"
+    owner: "EMP037"
+    description: "Equipment maintenance log for Q3 2025"
+    category: "resources"
+    teams: ["Operations & Support Team"]
+    relations:
+      - "PRO-005"  # Equipment purchase order
+      - "QUA-002"  # Audit report
+    tags: ["equipment", "maintenance", "Q3-2025", "log"]
+
+  - id: "RES-002"
+    filename: "chemical_inventory_status_2025-09-30.csv"
+    owner: "EMP038"
+    description: "Chemical inventory status as of September 30, 2025"
+    category: "resources"
+    teams: ["Operations & Support Team"]
+    relations:
+      - "EXP-001"  # NGT-147 synthesis
+      - "EXP-005"  # NGT series data
+    tags: ["inventory", "chemicals", "status", "Q3-2025"]
+
+  - id: "RES-003"
+    filename: "lab_calendar_Q3_2025.md"
+    owner: "EMP038"
+    description: "Detailed lab calendar for Q3 2025 with milestones"
+    category: "resources"
+    teams: ["Operations & Support Team"]
+    relations:
+      - "MEE-001"  # EGFR Go/No-Go
+      - "MEE-002"  # BTK brainstorming
+      - "MEE-003"  # Weekly discovery
+    tags: ["calendar", "Q3-2025", "milestones", "planning"]
+
+  - id: "RES-004"
+    filename: "Equipment_calibration_records_Q3_2025.txt"
+    owner: "EMP020"
+    description: "Equipment calibration records for UPLC system with detailed test results"
+    category: "resources"
+    teams: ["DMPK Team"]
+    relations:
+      - "PRO-005"  # LCMS bioanalytical method
+      - "QUA-003"  # QC test results
+    tags: ["calibration", "UPLC", "equipment", "Q3-2025"]
+
+  # Quality
+  - id: "QUA-001"
+    filename: "QC_deviation_report_2025-08-23.md"
+    owner: "EMP048"
+    description: "QC deviation report for CDK2 assay with root cause analysis"
+    category: "quality"
+    teams: ["Screening & Assays Team"]
+    relations:
+      - "EXP-007"  # Failed experiment log
+      - "QUA-002"  # Audit report
+    tags: ["QC", "deviation", "CDK2", "root-cause"]
+
+  - id: "QUA-002"
+    filename: "Audit_report_Q3_2025.md"
+    owner: "EMP039"
+    description: "Internal quality audit report with findings and corrective actions"
+    category: "quality"
+    teams: ["Operations & Support Team"]
+    relations:
+      - "QUA-001"  # QC deviation report
+      - "RES-001"  # Equipment maintenance
+    tags: ["audit", "Q3-2025", "quality", "findings"]
+
+  - id: "QUA-003"
+    filename: "QC_test_results_2025-09-15.md"
+    owner: "EMP048"
+    description: "QC test results for CDK2 screening assay with quality metrics and observations"
+    category: "quality"
+    teams: ["Screening & Assays Team"]
+    relations:
+      - "RES-004"  # Equipment calibration records
+      - "MEE-004"  # CDK2 hit-to-lead meeting
+    tags: ["QC", "test-results", "CDK2", "quality-metrics"]
+
+  # Training
+  - id: "TRA-001"
+    filename: "Training_Records_2025.csv"
+    owner: "EMP037"
+    description: "Comprehensive training database for all employees"
+    category: "training"
+    teams: ["Operations & Support Team"]
+    relations:
+      - "QUA-002"  # Audit report
+    tags: ["training", "records", "employees", "compliance"]
+
+  - id: "TRA-002"
+    filename: "Safety_training_program_v4.2.md"
+    owner: "EMP037"
+    description: "Comprehensive laboratory safety training program with modules and requirements"
+    category: "training"
+    teams: ["Operations & Support Team"]
+    relations:
+      - "SAF-001"  # Safety incident report
+      - "QUA-002"  # Audit report
+    tags: ["safety", "training", "program", "modules"]
+
+  # Financial
+  - id: "FIN-001"
+    filename: "Budget_allocation_Q3_2025.txt"
+    owner: "EMP036"
+    description: "Budget allocation breakdown by program and team for Q3 2025"
+    category: "financial"
+    teams: ["Discovery Division Leadership"]
+    relations:
+      - "EXP-001"  # NGT-147 synthesis
+      - "EXP-003"  # BTK breakthrough
+      - "PRO-001"  # CDK2 HTS
+    tags: ["budget", "Q3-2025", "allocation", "programs"]
+
+  - id: "FIN-002"
+    filename: "Financial_report_Q3_2025.md"
+    owner: "EMP038"
+    description: "Comprehensive financial report with budget vs actual analysis and forecasts"
+    category: "financial"
+    teams: ["Operations & Support Team"]
+    relations:
+      - "FIN-001"  # Budget allocation
+      - "PRJ-003"  # Project Aurora target validation
+      - "MEE-004"  # CDK2 hit-to-lead meeting
+    tags: ["financial", "report", "Q3-2025", "budget-analysis"]
+
+  # Regulatory
+  - id: "REG-001"
+    filename: "NGT-147_patent_application_draft_2025-03-25.txt"
+    owner: "Sarah Chen"
+    description: "Patent application draft for NGT-147 with chemical structures"
+    category: "regulatory"
+    teams: ["Medicinal Chemistry Team"]
+    relations:
+      - "EXP-001"  # NGT-147 synthesis
+      - "EXP-006"  # NGT-147 scale-up
+      - "PRJ-002"  # IND preparation
+    tags: ["patent", "NGT-147", "application", "IP"]
+
+  - id: "REG-002"
+    filename: "FDA_preIND_meeting_request_2025-07-15.md"
+    owner: "EMP019"
+    description: "Formal FDA pre-IND meeting request with agenda and questions"
+    category: "regulatory"
+    teams: ["Preclinical Development Division"]
+    relations:
+      - "EXP-001"  # NGT-147 synthesis
+      - "PRJ-002"  # IND preparation
+    tags: ["FDA", "pre-IND", "meeting", "regulatory"]
+
+  # Safety
+  - id: "SAF-001"
+    filename: "Safety_incident_report_2025-07-25.md"
+    owner: "EMP040"
+    description: "Safety incident report for ethyl acetate spill with root cause analysis"
+    category: "safety"
+    teams: ["Medicinal Chemistry Team"]
+    relations:
+      - "TRA-001"  # Training records
+      - "QUA-002"  # Audit report
+    tags: ["safety", "incident", "spill", "root-cause"]
+
+  # Procurement
+  - id: "PRO-005"
+    filename: "Equipment_purchase_order_2025-08-15.txt"
+    owner: "EMP047"
+    description: "Equipment purchase order for UPLC, microplate reader, and other equipment"
+    category: "procurement"
+    teams: ["Screening & Assays Team"]
+    relations:
+      - "RES-001"  # Equipment maintenance
+      - "FIN-001"  # Budget allocation
+    tags: ["purchase", "equipment", "UPLC", "procurement"]
+
+  # HR
+  - id: "HR-001"
+    filename: "Performance_review_Jennifer_Martinez_2025.md"
+    owner: "Sarah Chen"
+    description: "Detailed performance review for Jennifer Martinez highlighting PROTAC breakthrough"
+    category: "hr"
+    teams: ["Medicinal Chemistry Team"]
+    relations:
+      - "EXP-003"  # BTK degradation breakthrough
+      - "MEE-002"  # BTK brainstorming
+    tags: ["performance", "review", "Jennifer-Martinez", "PROTAC"]
+
+  - id: "HR-002"
+    filename: "Performance_review_Jonathan_Hughes_2025.md"
+    owner: "EMP019"
+    description: "Performance review highlighting Jonathan Hughes' brain penetration model development and cross-functional collaboration"
+    category: "hr"
+    teams: ["DMPK Team"]
+    relations:
+      - "PRJ-004"  # DMPK weekly report
+      - "COM-004"  # BTK-003 PK analysis email
+      - "COL-002"  # Internal PROTAC-DMPK collaboration
+    tags: ["performance", "review", "Jonathan-Hughes", "brain-penetration", "collaboration"]
+
+  # Vendors
+  - id: "VEN-001"
+    filename: "Charles_River_communication_log_Q3_2025.txt"
+    owner: "EMP041"
+    description: "Communication log with Charles River Laboratories for NGT-147 tox studies"
+    category: "vendors"
+    teams: ["Preclinical Development Division"]
+    relations:
+      - "EXP-001"  # NGT-147 synthesis
+      - "PRJ-002"  # IND preparation
+    tags: ["CRO", "Charles-River", "tox-studies", "communication"]
+
+  # Collaborations
+  - id: "COL-001"
+    filename: "MIT_collaboration_agreement_2025.md"
+    owner: "EMP008"
+    description: "Research collaboration agreement with MIT for PROTAC technology development"
+    category: "collaborations"
+    teams: ["Computational Sciences Division"]
+    relations:
+      - "EXP-003"  # BTK degradation breakthrough
+      - "MEE-002"  # BTK brainstorming
+    tags: ["collaboration", "MIT", "PROTAC", "research"]
+
+  - id: "COL-002"
+    filename: "Internal_PROTAC_DMPK_collaboration_2025.md"
+    owner: "EMP002"
+    description: "Internal collaboration agreement between PROTAC and DMPK teams for CNS drug development"
+    category: "collaborations"
+    teams: ["Medicinal Chemistry Team", "DMPK Team"]
+    relations:
+      - "COM-004"  # BTK-003 PK analysis email
+      - "EXP-009"  # BTK-003 brain penetration study
+      - "PRJ-004"  # DMPK weekly report
+      - "HR-002"  # Performance review Jonathan Hughes
+    tags: ["internal-collaboration", "PROTAC", "DMPK", "CNS", "brain-penetration"]
+
+metadata:
+  total_documents: 40
+  categories:
+    experiments: 9
+    meetings: 4
+    protocols: 5
+    communications: 4
+    projects: 4
+    resources: 4
+    quality: 3
+    training: 2
+    financial: 2
+    regulatory: 2
+    safety: 1
+    procurement: 1
+    hr: 2
+    vendors: 1
+    collaborations: 2
+  teams:
+    - "Medicinal Chemistry Team"
+    - "Biology & Pharmacology Team"
+    - "Screening & Assays Team"
+    - "Computational Chemistry Team"
+    - "DMPK Team"
+    - "Operations & Support Team"
+    - "Discovery Division Leadership"
+    - "Preclinical Development Division"
+    - "Computational Sciences Division"
+  key_programs:
+    - "NGT-147 (EGFR)"
+    - "BTK PROTAC"
+    - "CDK2"
+    - "Project Aurora"
+  date_range: "2025-02-15 to 2025-09-30"
+  last_updated: "2025-09-30"

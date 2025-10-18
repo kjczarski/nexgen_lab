@@ -1,0 +1,98 @@
+BUDGET ALLOCATION Q3 2025
+=========================
+
+Division: Discovery Division
+Period: July - September 2025
+Total Budget: $2.1M
+Lead: Dr. Michael Torres
+Coordinator: Angela White
+
+BUDGET BREAKDOWN BY PROGRAM:
+
+NGT-147 Program: $1.2M (57%)
+- Med Chem synthesis: $400K
+- Biology testing: $300K
+- DMPK studies: $200K
+- Comp Chem modeling: $100K
+- Equipment/maintenance: $200K
+
+BTK PROTAC Program: $600K (29%)
+- PROTAC synthesis: $300K
+- Degradation assays: $150K
+- Ternary complex modeling: $100K
+- Target engagement studies: $50K
+
+CDK2 Program: $200K (10%)
+- Hit-to-lead synthesis: $100K
+- Screening assays: $50K
+- Comp Chem support: $50K
+
+Project Aurora: $100K (4%)
+- Bioinformatics analysis: $60K
+- Target validation: $40K
+
+BUDGET BREAKDOWN BY TEAM:
+
+Medicinal Chemistry: $700K (33%)
+- Sarah Chen team: $500K
+- Jennifer Martinez: $200K
+
+Biology & Pharmacology: $450K (21%)
+- Rachel Foster team: $350K
+- Assay development: $100K
+
+Screening & Assays: $300K (14%)
+- Carlos Mendez team: $200K
+- Equipment: $100K
+
+Computational Sciences: $350K (17%)
+- Linda Wu team: $200K
+- Jason Park team: $150K
+
+Support Services: $300K (14%)
+- Lab supplies: $150K
+- Equipment maintenance: $100K
+- Travel/conferences: $50K
+
+QUARTERLY SPENDING:
+
+July 2025: $650K
+- NGT-147 synthesis: $200K
+- BTK PROTAC studies: $150K
+- CDK2 screening: $100K
+- Equipment: $200K
+
+August 2025: $750K
+- NGT-147 biology: $250K
+- BTK degradation assays: $200K
+- CDK2 hit-to-lead: $150K
+- Comp Chem: $150K
+
+September 2025: $700K
+- NGT-147 DMPK: $200K
+- BTK ternary complex: $150K
+- Project Aurora: $100K
+- Support services: $250K
+
+VARIANCE ANALYSIS:
+
+Over Budget:
+- Med Chem synthesis: +$50K (NGT-147 scale-up)
+- Equipment maintenance: +$25K (UPLC repair)
+
+Under Budget:
+- CDK2 program: -$30K (delayed start)
+- Travel/conferences: -$20K (virtual meetings)
+
+TOTAL VARIANCE: +$25K (1.2% over budget)
+
+FORECAST Q4 2025:
+
+Total Budget: $2.3M
+- NGT-147: $1.4M (IND preparation)
+- BTK PROTAC: $600K (expansion)
+- CDK2: $200K (hit-to-lead)
+- Project Aurora: $100K (target validation)
+
+Michael Torres
+9/30/2025

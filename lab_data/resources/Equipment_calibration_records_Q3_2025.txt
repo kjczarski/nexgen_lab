@@ -1,0 +1,93 @@
+EQUIPMENT CALIBRATION RECORDS - Q3 2025
+=======================================
+
+Equipment: Agilent 1290 Infinity II UPLC System
+Serial Number: US123456789
+Location: Building B, Floor 1, Lab Bay 3
+Responsible: Dr. Yuki Tanaka
+Calibrated by: Agilent Service Engineer
+
+CALIBRATION SCHEDULE:
+- Last Calibration: June 30, 2025
+- Next Calibration: September 30, 2025
+- Calibration Interval: Quarterly
+- Calibration Standard: USP <621> Chromatography
+
+CALIBRATION RESULTS:
+
+1. Flow Rate Accuracy
+   - Test Point: 0.4 mL/min
+   - Measured: 0.398 mL/min
+   - Accuracy: 99.5% (Pass)
+   - Acceptance: ±2%
+
+2. Pressure Accuracy
+   - Test Point: 100 bar
+   - Measured: 99.8 bar
+   - Accuracy: 99.8% (Pass)
+   - Acceptance: ±2%
+
+3. Temperature Accuracy
+   - Test Point: 40°C
+   - Measured: 39.9°C
+   - Accuracy: 99.8% (Pass)
+   - Acceptance: ±1°C
+
+4. Wavelength Accuracy
+   - Test Point: 254 nm
+   - Measured: 253.8 nm
+   - Accuracy: 99.9% (Pass)
+   - Acceptance: ±1 nm
+
+5. Injection Volume Accuracy
+   - Test Point: 5 μL
+   - Measured: 4.98 μL
+   - Accuracy: 99.6% (Pass)
+   - Acceptance: ±2%
+
+6. Retention Time Precision
+   - Test Compound: Caffeine
+   - RSD: 0.15% (Pass)
+   - Acceptance: <1%
+
+7. Peak Area Precision
+   - Test Compound: Caffeine
+   - RSD: 0.8% (Pass)
+   - Acceptance: <2%
+
+8. Baseline Noise
+   - Measured: 0.02 mAU
+   - Acceptance: <0.1 mAU (Pass)
+
+9. Baseline Drift
+   - Measured: 0.05 mAU/hour
+   - Acceptance: <0.5 mAU/hour (Pass)
+
+10. Column Efficiency
+    - Test Compound: Caffeine
+    - Plates: 15,000 (Pass)
+    - Acceptance: >10,000
+
+CALIBRATION CERTIFICATE:
+- Certificate Number: CAL-2025-0830-001
+- Calibration Date: August 30, 2025
+- Calibrated by: John Smith (Agilent)
+- Certificate Valid Until: November 30, 2025
+
+MAINTENANCE PERFORMED:
+- Column replacement
+- Detector lamp replacement
+- Pump seal replacement
+- Autosampler cleaning
+- System performance test
+
+RECOMMENDATIONS:
+- Continue quarterly calibration schedule
+- Monitor pressure trends
+- Replace column every 1000 injections
+- Clean autosampler monthly
+
+NEXT CALIBRATION: September 30, 2025
+
+Yuki Tanaka
+8/30/2025

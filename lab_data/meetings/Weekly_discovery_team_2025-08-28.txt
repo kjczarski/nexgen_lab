@@ -1,0 +1,56 @@
+Weekly Discovery Team Meeting - August 28, 2025
+===============================================
+
+Attendees: Michael Torres (Discovery Dir), Sarah Chen (Med Chem), Rachel Foster (Biology), 
+Carlos Mendez (Screening), Linda Wu (Comp Chem), Jason Park (Bioinformatics)
+
+AGENDA:
+
+1. NGT-147 Program Update (Sarah Chen)
+   - IND-enabling tox studies started September 1st
+   - Steven Park's formulation team making good progress
+   - Patent applications filed (3 provisional patents)
+   - Timeline on track for Q4 2026 IND submission
+
+2. BTK PROTAC Program (Jennifer Martinez via Sarah)
+   - BTK-003 breakthrough confirmed in multiple cell lines
+   - Dose-response: IC50 = 25 nM for degradation
+   - Selectivity: No degradation of other kinases tested
+   - Next: Time course studies and in vivo testing
+   - Michael: "This could be our next major program!"
+
+3. CDK2 HTS Results (Carlos Mendez)
+   - 23 validated hits from 125K compound screen
+   - Best hit: CDK2-001 (IC50 = 0.5 μM)
+   - Excellent selectivity vs CDK1, CDK4, CDK6
+   - Ready for hit-to-lead optimization
+   - Budget request: $800K for 6-month program
+
+4. Project Aurora Update (Jason Park)
+   - Target identification complete for 3 novel kinases
+   - Bioinformatics analysis suggests druggable binding sites
+   - Next: Experimental validation with Rachel's team
+   - Timeline: 12 months to validated targets
+
+5. Resource Allocation Discussion
+   - NGT-147: 60% of discovery budget (IND preparation)
+   - BTK PROTAC: 25% of discovery budget (expansion)
+   - CDK2: 10% of discovery budget (hit-to-lead)
+   - Project Aurora: 5% of discovery budget (exploration)
+
+6. Upcoming Milestones
+   - September 15: NGT-147 tox study interim results
+   - October 1: BTK PROTAC in vivo study start
+   - October 15: CDK2-001 analog synthesis complete
+   - November 1: Project Aurora target validation complete
+
+ACTION ITEMS:
+- Sarah: Scale up NGT-147 synthesis for tox studies
+- Rachel: Design BTK PROTAC in vivo study protocol
+- Carlos: Prepare CDK2 hit-to-lead proposal
+- Jason: Complete Project Aurora target analysis
+- Michael: Present resource allocation to Rebecca Chao
+
+NEXT MEETING: September 4, 2025, 2:00 PM
+
+Notes by: Angela White (Research Coordinator)

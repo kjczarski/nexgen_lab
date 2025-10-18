@@ -1,0 +1,45 @@
+NGT-147 SYNTHESIS LOG - March 12, 2025
+==========================================
+
+Scientist: Dr. Sarah Chen
+Lab: Building B, Floor 1, Lab Bay 1
+Compound: NGT-147 (EGFR inhibitor candidate)
+
+BACKGROUND:
+Linda Wu's computational predictions suggested this pyrimidine scaffold could achieve 
+excellent EGFR potency with improved brain penetration. Previous analogs (NGT-140-146) 
+showed good potency but poor metabolic stability.
+
+SYNTHESIS ROUTE:
+Step 1: Starting material - 4-chloro-6-methoxyquinazoline (commercial)
+Step 2: SNAr with 3-fluoro-4-aminophenol (our standard building block)
+Step 3: Suzuki coupling with 4-(2-methoxyethoxy)phenylboronic acid
+Step 4: Deprotection of methoxy group
+Step 5: Final coupling with 2-fluoro-4-aminophenol
+
+YIELD: 23% overall (much better than expected!)
+PURITY: 98.5% by HPLC (Agilent 1290)
+
+KEY OBSERVATIONS:
+- The 2-methoxyethoxy group really helped solubility
+- Linda's prediction about fluorine positioning was spot-on
+- Much cleaner reaction than NGT-145 series
+- Crystallized nicely from EtOAc/hexanes
+
+NEXT STEPS:
+- Send to Rachel Foster for EGFR IC50 (urgent - she's waiting)
+- Submit to Jonathan Hughes for microsomal stability
+- Get crystal structure with EGFR if possible
+- Scale up synthesis for in vivo studies
+
+NOTES:
+This compound looks very promising! The calculated properties are:
+- MW: 456.5
+- LogP: 2.8 (perfect for brain penetration)
+- PSA: 89.2
+- HBD: 2, HBA: 6
+
+Linda will be thrilled - her FEP calculations predicted this exact scaffold.
+
+Sarah Chen
+3/12/2025 4:30 PM

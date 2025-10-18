@@ -1,0 +1,59 @@
+DMPK BRAIN PENETRATION STUDY - NGT-147
+=======================================
+
+Study ID: DMPK-2025-0415
+Compound: NGT-147
+Study Type: Brain Penetration Assessment
+Date: April 15, 2025
+Lead Scientist: Dr. Jonathan Hughes
+Technician: Elena Popov
+
+OBJECTIVE:
+Evaluate brain penetration of NGT-147 in male Sprague-Dawley rats following 
+intravenous administration. This is CRITICAL for the Go/No-Go decision.
+
+METHODS:
+Animals: 12 male Sprague-Dawley rats (200-250g)
+Dose: 5 mg/kg IV (formulated in 20% HP-β-CD)
+Timepoints: 0.25, 0.5, 1, 2, 4, 8 hours (n=2 per timepoint)
+Sample collection: Blood and brain tissue
+Bioanalysis: LC-MS/MS method (validated)
+
+RESULTS:
+Time (h) | Plasma Conc (ng/mL) | Brain Conc (ng/g) | Brain:Plasma Ratio
+---------|-------------------|-------------------|-------------------
+0.25     | 1250              | 2100              | 1.68
+0.5      | 980               | 1650              | 1.68
+1.0      | 720               | 1296              | 1.80
+2.0      | 450               | 810               | 1.80
+4.0      | 280               | 504               | 1.80
+8.0      | 95                | 171               | 1.80
+
+KEY FINDINGS:
+- Brain:plasma ratio = 1.80 (EXCELLENT - target was >1.0)
+- Consistent ratio across all timepoints
+- Good brain exposure maintained for 8 hours
+- No signs of toxicity or behavioral changes
+
+COMPARISON TO PRECLINICAL CANDIDATES:
+- NGT-112: 0.3 (rejected due to poor brain penetration)
+- NGT-140: 0.4 (insufficient for brain tumors)
+- NGT-145: 1.2 (acceptable but not optimal)
+
+CONCLUSION:
+NGT-147 shows EXCEPTIONAL brain penetration with brain:plasma ratio of 1.8.
+This exceeds our target of >1.0 and supports advancement to IND-enabling studies.
+The consistent ratio across timepoints indicates good brain distribution.
+
+RECOMMENDATION: PROCEED to Go/No-Go meeting with strong recommendation for advancement.
+
+Next steps:
+- Submit data to Patricia O'Brien for Go/No-Go presentation
+- Include in IND package
+- Consider higher doses for efficacy studies
+
+Dr. Jonathan Hughes
+4/15/2025 6:30 PM
+
+NOTE: This data was presented at the May 15 Go/No-Go meeting and was 
+instrumental in the decision to advance NGT-147. Patricia was thrilled!

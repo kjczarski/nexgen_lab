@@ -1,0 +1,45 @@
+From: l.wu@nexgentherapeutics.com
+To: s.chen@nexgentherapeutics.com, j.martinez@nexgentherapeutics.com
+Subject: FEP Results for BTK-004 vs BTK-003 - EXCELLENT!
+Date: June 8, 2025 3:45 PM
+
+Sarah, Jennifer,
+
+Just finished the FEP calculations for BTK-004 vs BTK-003 and the results are 
+AMAZING!
+
+FEP PREDICTIONS:
+- BTK-004 binding free energy: -8.2 kcal/mol
+- BTK-003 binding free energy: -7.1 kcal/mol
+- Predicted improvement: 1.1 kcal/mol (7.5x better binding!)
+
+The 8-carbon linker in BTK-004 provides much better flexibility for 
+ternary complex formation. The computational model shows the linker 
+adopting an optimal conformation that brings the BTK ligand and CRBN 
+ligand into perfect alignment.
+
+KEY INSIGHTS:
+1. Linker length optimization is critical for PROTAC efficacy
+2. 8-carbon linker provides optimal flexibility
+3. Ternary complex stability significantly improved
+4. Predicted degradation should be >90% at 100 nM
+
+This validates Jennifer's synthetic strategy perfectly! The longer linker 
+was the right approach.
+
+Next steps:
+- Test BTK-004 in degradation assays
+- Compare with BTK-003 side-by-side
+- Consider 10-carbon linker for BTK-005
+
+The computational predictions are looking very promising for the PROTAC 
+program. We might have our first clinical candidate!
+
+Linda
+
+P.S. - The ternary complex visualization is beautiful. I'll send the 
+3D structure file to Jennifer for her presentation.
+
+---
+Attachment: BTK-004_FEP_results.pdf
+Attachment: BTK-004_ternary_complex.pdb

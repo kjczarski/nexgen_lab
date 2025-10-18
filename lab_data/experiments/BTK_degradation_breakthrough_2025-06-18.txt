@@ -1,0 +1,34 @@
+BTK PROTAC BREAKTHROUGH - June 18, 2025
+=======================================
+
+Quick note - Jennifer Martinez just called me (Rachel Foster) with amazing news!
+
+BTK-003 finally showed degradation! 
+
+Details:
+- Compound: BTK-003 (Jennifer's latest synthesis)
+- Assay: Our standard BTK degradation protocol
+- Concentration: 100 nM
+- Time: 24 hours
+- Result: 85% BTK degradation (Western blot)
+- Control: DMSO showed <5% degradation
+
+This is HUGE! We've been trying for months with BTK-001, BTK-002, etc. 
+Jennifer says the key was changing the linker attachment point - Linda Wu's 
+ternary complex modeling was right.
+
+Next steps:
+- Confirm in multiple cell lines
+- Check selectivity vs other kinases
+- Dose-response curve
+- Time course study
+
+Jennifer is super excited - this could be her ticket to staff scientist role!
+Sarah Chen is already talking about expanding the PROTAC program.
+
+Need to update Michael Torres ASAP - he'll want to present this at Friday's 
+leadership meeting.
+
+Rachel Foster
+6/18/2025 3:45 PM
+(Scrawled on lab notebook page)

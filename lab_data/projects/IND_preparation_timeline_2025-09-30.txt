@@ -1,0 +1,87 @@
+IND PREPARATION TIMELINE - NGT-147
+===================================
+
+Project: NGT-147 IND Submission
+Target Date: October 2026
+Lead: Dr. Patricia O'Brien
+Team: Preclinical Development Division
+
+CRITICAL PATH TIMELINE:
+
+Q4 2025 (October - December):
+- Oct 1: Initiate 2-week rat tox study
+- Oct 15: Initiate 2-week dog tox study  
+- Nov 1: Complete formulation development
+- Nov 15: Scale up synthesis (100g batch)
+- Dec 1: Complete bioanalytical method validation
+- Dec 15: 2-week tox study interim results
+
+Q1 2026 (January - March):
+- Jan 15: Complete 2-week tox studies
+- Feb 1: Initiate 4-week rat tox study
+- Feb 15: Initiate 4-week dog tox study
+- Mar 1: Complete manufacturing process development
+- Mar 15: Complete stability studies (6 months)
+- Mar 31: 4-week tox study interim results
+
+Q2 2026 (April - June):
+- Apr 15: Complete 4-week tox studies
+- May 1: Complete reproductive tox study (rat)
+- May 15: Complete genotoxicity studies
+- Jun 1: Complete safety pharmacology studies
+- Jun 15: Complete CMC package
+- Jun 30: Complete nonclinical package
+
+Q3 2026 (July - September):
+- Jul 1: Begin IND document preparation
+- Jul 15: FDA pre-IND meeting
+- Aug 1: Complete IND application
+- Aug 15: Internal review and approval
+- Sep 1: Submit IND to FDA
+- Sep 30: FDA 30-day review period
+
+Q4 2026 (October - December):
+- Oct 1: FDA approval (target)
+- Oct 15: Begin Phase I clinical trial
+- Dec 31: Complete Phase I dose escalation
+
+RESOURCE REQUIREMENTS:
+
+Budget: $3.2M total
+- Toxicology: $1.8M
+- DMPK: $800K  
+- Formulation: $400K
+- CMC: $200K
+
+Personnel:
+- 3 toxicologists (Margaret's team)
+- 2 DMPK scientists (Jonathan's team)
+- 2 formulators (Steven's team)
+- 1 CMC specialist (external consultant)
+
+CROs:
+- Charles River (tox studies)
+- Covance (bioanalytical)
+- Patheon (manufacturing)
+
+RISK MITIGATION:
+
+High Risk Items:
+- 4-week tox study results (Mar 2026)
+- Manufacturing scale-up (Nov 2025)
+- FDA pre-IND meeting (Jul 2026)
+
+Contingency Plans:
+- Backup formulation (Steven Park)
+- Additional tox studies if needed
+- FDA consultation if issues arise
+
+SUCCESS METRICS:
+- On-time IND submission: Oct 2026
+- FDA approval within 30 days
+- Phase I trial initiation: Oct 2026
+- Budget within 10% of target
+
+Patricia O'Brien
+9/30/2025
+

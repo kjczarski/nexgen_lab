@@ -1,0 +1,36 @@
+From: j.hughes@nexgentherapeutics.com
+To: j.martinez@nexgentherapeutics.com
+Subject: Re: BTK-003 PK Data - Interesting Results
+Date: May 8, 2025 4:30 PM
+
+Jennifer,
+
+Thanks for sending the BTK-003 PK data. The results are actually quite 
+interesting from a brain penetration perspective.
+
+I noticed something unusual in the plasma concentration curve - there's 
+a secondary peak at 4 hours that doesn't match typical PROTAC PK profiles. 
+This could indicate some form of redistribution, possibly to brain tissue.
+
+The LogP of 2.8 is actually in the sweet spot for CNS penetration. Most 
+PROTACs are too polar, but BTK-003 might be different.
+
+I've been working on some new brain penetration models that might be 
+relevant. The key parameters seem to be:
+- LogP: 2.5-3.5 (you're at 2.8 ✓)
+- PSA: <90 Å² (need to check yours)
+- MW: <600 Da (you're at 678, close)
+
+Could you send me the molecular properties for BTK-003? I'd like to 
+run it through my new models.
+
+Also, have you considered testing BTK-003 in our brain penetration assay? 
+I know it's not part of the standard PROTAC workflow, but given the 
+unusual PK profile, it might be worth investigating.
+
+Let me know what you think.
+
+Jonathan
+
+P.S. - I've been reading some interesting papers on CNS drug delivery. 
+There might be some strategies we could apply to PROTACs.

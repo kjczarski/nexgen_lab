@@ -1,0 +1,81 @@
+PATENT APPLICATION DRAFT - NGT-147
+====================================
+
+Application Title: "Pyrimidine-Based EGFR Kinase Inhibitors with Enhanced Brain Penetration"
+
+Inventors: Dr. Sarah Chen, Dr. Linda Wu, Dr. Rachel Foster
+Assignee: NexGen Therapeutics, Inc.
+Filing Date: March 25, 2025
+Application Number: 63/123,456
+
+BACKGROUND OF THE INVENTION:
+
+The present invention relates to novel pyrimidine-based compounds that inhibit EGFR kinase activity with enhanced brain penetration properties. These compounds are useful for treating cancers, particularly brain metastases and CNS-involved malignancies.
+
+EGFR (Epidermal Growth Factor Receptor) is a well-established target in cancer therapy. However, existing EGFR inhibitors such as erlotinib, gefitinib, and osimertinib have limited brain penetration, restricting their utility in treating brain metastases.
+
+The present invention addresses this limitation by providing compounds with improved brain penetration while maintaining potent EGFR inhibition and selectivity.
+
+SUMMARY OF THE INVENTION:
+
+The present invention provides compounds of Formula I:
+
+[Chemical Structure - NGT-147]
+
+Wherein:
+- R1 is selected from hydrogen, halogen, C1-C6 alkyl
+- R2 is selected from C1-C6 alkoxy, C1-C6 alkyl
+- R3 is selected from hydrogen, halogen, C1-C6 alkyl
+- R4 is selected from C1-C6 alkoxy, C1-C6 alkyl
+
+Preferred compounds include NGT-147, which exhibits:
+- EGFR IC50: 0.8 nM
+- Brain:plasma ratio: 1.8
+- Selectivity vs other kinases: >1000x
+
+DETAILED DESCRIPTION:
+
+Example 1: Synthesis of NGT-147
+
+Step 1: 4-Chloro-6-methoxyquinazoline (1.0 eq) was reacted with 3-fluoro-4-aminophenol (1.1 eq) in DMF at 80°C for 4 hours to give intermediate A.
+
+Step 2: Intermediate A was subjected to Suzuki coupling with 4-(2-methoxyethoxy)phenylboronic acid (1.2 eq) using Pd(PPh3)4 catalyst to give intermediate B.
+
+Step 3: Intermediate B was deprotected using BBr3 in DCM to give intermediate C.
+
+Step 4: Intermediate C was coupled with 2-fluoro-4-aminophenol (1.1 eq) in DMF at 100°C for 6 hours to give NGT-147.
+
+Yield: 23% overall
+Purity: 98.5% by HPLC
+
+Example 2: Biological Activity
+
+NGT-147 was tested for EGFR kinase inhibition using standard TR-FRET assay:
+- EGFR IC50: 0.8 nM
+- CDK2 IC50: >10,000 nM
+- CDK4 IC50: >10,000 nM
+- CDK6 IC50: >10,000 nM
+
+Example 3: Brain Penetration Study
+
+NGT-147 was administered to male Sprague-Dawley rats at 5 mg/kg IV:
+- Brain:plasma ratio: 1.8
+- Brain Cmax: 2.1 μg/g
+- Plasma Cmax: 1.2 μg/mL
+
+CLAIMS:
+
+1. A compound of Formula I as described herein.
+
+2. A pharmaceutical composition comprising a compound of claim 1 and a pharmaceutically acceptable carrier.
+
+3. A method of treating cancer comprising administering a therapeutically effective amount of a compound of claim 1.
+
+4. A method of treating brain metastasis comprising administering a therapeutically effective amount of a compound of claim 1.
+
+5. A compound selected from NGT-147, NGT-148, NGT-149, and NGT-150.
+
+Sarah Chen, Ph.D.
+Inventor
+NexGen Therapeutics, Inc.
+3/25/2025

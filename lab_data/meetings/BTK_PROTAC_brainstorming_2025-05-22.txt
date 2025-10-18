@@ -1,0 +1,59 @@
+BTK PROTAC BRAINSTORMING SESSION - May 22, 2025
+===============================================
+
+Attendees: Jennifer Martinez, Sarah Chen, Linda Wu, Rachel Foster, Kevin Zhao
+Location: Conference Room B, Building A
+Duration: 2 hours
+Facilitator: Michael Torres
+
+AGENDA:
+1. BTK-003 breakthrough analysis
+2. Next generation PROTAC design
+3. Linker optimization strategy
+4. E3 ligase selection
+5. Resource allocation
+
+KEY DISCUSSION POINTS:
+
+BTK-003 Success Analysis:
+- 85% degradation at 100 nM
+- Clean selectivity profile
+- Good cell permeability
+- Key: Linker attachment point change
+- Linda's ternary complex modeling was crucial
+
+Next Generation Design:
+- Target: BTK-004 through BTK-010 series
+- Focus: Improved potency and duration
+- Strategy: Systematic linker optimization
+- Timeline: 3 months for initial series
+
+Linker Optimization:
+- Current: 6-carbon linker
+- Test: 4, 8, 10 carbon linkers
+- Consider: PEG linkers for flexibility
+- Priority: Maintain degradation activity
+
+E3 Ligase Selection:
+- Current: Cereblon (CRBN)
+- Test: VHL (von Hippel-Lindau)
+- Consider: MDM2 for different mechanism
+- Strategy: Parallel evaluation
+
+Resource Requirements:
+- Jennifer: Full-time PROTAC synthesis
+- Linda: Ternary complex modeling
+- Rachel: Degradation assays
+- Kevin: Target engagement studies
+- Budget: $300K for 3 months
+
+ACTION ITEMS:
+1. Jennifer: Synthesize BTK-004 to BTK-010 (2 weeks)
+2. Linda: Model ternary complexes for new linkers (1 week)
+3. Rachel: Develop high-throughput degradation assay (2 weeks)
+4. Kevin: Optimize target engagement protocol (1 week)
+5. Michael: Approve budget increase for PROTAC program
+
+NEXT MEETING: June 5, 2025
+
+Notes by: Angela White

@@ -1,0 +1,80 @@
+LAB NOTEBOOK ENTRY - NGT-147 SCALE-UP
+=====================================
+
+Date: July 1, 2025
+Scientist: Sarah Chen
+Project: NGT-147 Scale-up Synthesis
+Notebook: Lab-2025-001, Page 47
+
+OBJECTIVE:
+Scale up NGT-147 synthesis from 100mg to 10g for IND-enabling studies.
+Previous small-scale synthesis gave 23% yield, need to maintain or improve.
+
+PROCEDURE:
+
+Step 1: 4-Chloro-6-methoxyquinazoline (50g, 1.0 eq) was dissolved in DMF (500mL) 
+and heated to 80°C. 3-Fluoro-4-aminophenol (55g, 1.1 eq) was added slowly over 
+30 minutes. Reaction stirred for 4 hours at 80°C.
+
+TLC: Rf = 0.3 (50% EtOAc/hexanes)
+LCMS: [M+H]+ = 289.1 (expected 289.1)
+
+Step 2: Intermediate A (45g) was dissolved in toluene (400mL) and degassed with 
+N2 for 30 minutes. 4-(2-Methoxyethoxy)phenylboronic acid (60g, 1.2 eq) and 
+Pd(PPh3)4 (2.5g, 0.05 eq) were added. Reaction heated to 100°C for 6 hours.
+
+TLC: Rf = 0.4 (50% EtOAc/hexanes)
+LCMS: [M+H]+ = 375.2 (expected 375.2)
+
+Step 3: Intermediate B (40g) was dissolved in DCM (300mL) and cooled to 0°C. 
+BBr3 (120mL, 1.2M in DCM) was added dropwise over 1 hour. Reaction stirred 
+at room temperature for 2 hours.
+
+TLC: Rf = 0.2 (50% EtOAc/hexanes)
+LCMS: [M+H]+ = 361.1 (expected 361.1)
+
+Step 4: Intermediate C (35g) was dissolved in DMF (350mL) and heated to 100°C. 
+2-Fluoro-4-aminophenol (38g, 1.1 eq) was added and reaction stirred for 6 hours.
+
+TLC: Rf = 0.5 (50% EtOAc/hexanes)
+LCMS: [M+H]+ = 456.5 (expected 456.5)
+
+WORKUP:
+Reaction mixture cooled to room temperature and poured into water (1L). 
+Extracted with EtOAc (3 x 500mL). Combined organic layers washed with 
+brine (500mL), dried over Na2SO4, and concentrated.
+
+PURIFICATION:
+Crude product purified by flash chromatography (SiO2, 0-50% EtOAc/hexanes).
+Pure fractions combined and concentrated to give NGT-147 as white solid.
+
+RESULTS:
+- Yield: 8.1g (23% overall)
+- Purity: 98.5% by HPLC
+- Appearance: White crystalline solid
+- Melting Point: 156-158°C
+
+ANALYSIS:
+1H NMR (400MHz, CDCl3): δ 8.45 (s, 1H), 7.85 (d, J=8.8Hz, 1H), 7.65 (d, J=8.4Hz, 1H), 
+7.45 (d, J=8.8Hz, 1H), 7.25 (d, J=8.4Hz, 1H), 6.95 (d, J=8.8Hz, 1H), 6.75 (d, J=8.4Hz, 1H), 
+4.25 (t, J=4.8Hz, 2H), 3.85 (s, 3H), 3.65 (t, J=4.8Hz, 2H), 3.45 (s, 3H)
+
+13C NMR (100MHz, CDCl3): δ 165.2, 162.8, 158.4, 155.7, 152.3, 148.9, 145.6, 
+142.1, 138.7, 135.2, 132.8, 129.4, 126.7, 123.5, 120.8, 117.2, 114.6, 111.3, 
+108.9, 105.4, 102.1, 98.7, 95.3, 92.8, 89.4, 86.1, 82.7, 79.3, 75.9, 72.5, 
+69.1, 65.7, 62.3, 58.9, 55.5, 52.1, 48.7, 45.3, 41.9, 38.5, 35.1, 31.7, 28.3, 
+24.9, 21.5, 18.1, 14.7, 11.3, 7.9, 4.5, 1.1
+
+HRMS: [M+H]+ = 456.5234 (calculated 456.5234)
+
+COMMENTS:
+Scale-up successful! Yield maintained at 23% despite 100x scale increase.
+Product quality excellent with 98.5% purity. Ready for IND-enabling studies.
+
+Next steps:
+- Send sample to biology for testing
+- Prepare for 100g scale-up
+- Optimize yield for commercial production
+
+Sarah Chen
+7/1/2025

@@ -1,0 +1,52 @@
+# Lab Notebook Entry - BTK-003 Brain Penetration Study
+
+**Date:** May 12, 2025  
+**Scientist:** Jennifer Martinez  
+**Project:** BTK PROTAC Series  
+**Notebook:** Lab-2025-002, Page 31
+
+## Objective
+Test BTK-003 in brain penetration assay based on unusual PK profile observed.
+
+## Background
+Jonathan Hughes suggested testing BTK-003 for brain penetration after 
+noticing unusual secondary peak in PK curve. LogP 2.8 is in CNS sweet spot.
+
+## Procedure
+
+### Brain Penetration Assay
+1. **Dosing:** BTK-003 administered at 5 mg/kg IV to male Sprague-Dawley rats
+2. **Time Points:** 0.5, 1, 2, 4, 8, 24 hours
+3. **Tissues:** Plasma, brain, liver, kidney
+4. **Analysis:** LC-MS/MS quantification
+
+### Results
+- **Brain:Plasma Ratio:** 1.2 at 4 hours (unexpected!)
+- **Brain Cmax:** 0.8 μg/g at 4 hours
+- **Plasma Cmax:** 0.7 μg/mL at 1 hour
+- **Secondary Peak:** Confirmed at 4 hours in plasma
+
+## Analysis
+The brain penetration is surprisingly good for a PROTAC. Most PROTACs 
+show ratios <0.3, but BTK-003 achieved 1.2. This suggests the compound 
+is actually crossing the BBB effectively.
+
+The secondary peak in plasma at 4 hours might be due to redistribution 
+from brain tissue back to plasma. This is a known phenomenon for 
+brain-penetrant compounds.
+
+## Discussion
+This is exciting! BTK-003 might be our first brain-penetrant PROTAC. 
+The molecular properties (LogP 2.8, PSA 85 Å²) seem to be in the 
+right range for CNS penetration.
+
+**Next Steps:**
+- Test BTK-003 in brain tumor models
+- Optimize linker for better brain penetration
+- Consider CNS indications
+
+**Note:** Jonathan's prediction was spot-on. His brain penetration 
+models seem to be working well.
+
+Jennifer Martinez  
+5/12/2025

@@ -1,0 +1,103 @@
+Employee_ID,Name,Department,Training_Course,Date_Completed,Instructor,Status,Certification_Expiry,Notes
+EMP001,Sarah Chen,Medicinal Chemistry,Lab Safety,2025-01-15,Monica Reyes,Completed,2026-01-15,Annual refresher
+EMP001,Sarah Chen,Medicinal Chemistry,Chemical Hygiene,2025-01-15,Monica Reyes,Completed,2026-01-15,Required for lab access
+EMP001,Sarah Chen,Medicinal Chemistry,Good Laboratory Practice,2025-02-01,External Consultant,Completed,2026-02-01,GLP certification
+EMP001,Sarah Chen,Medicinal Chemistry,Schrödinger Software,2025-03-10,Linda Wu,Completed,2026-03-10,Advanced modeling
+EMP002,Jennifer Martinez,Medicinal Chemistry,Lab Safety,2025-01-20,Monica Reyes,Completed,2026-01-20,New employee training
+EMP002,Jennifer Martinez,Medicinal Chemistry,Chemical Hygiene,2025-01-20,Monica Reyes,Completed,2026-01-20,Required for lab access
+EMP002,Jennifer Martinez,Medicinal Chemistry,PROTAC Design,2025-04-15,Sarah Chen,Completed,2026-04-15,Specialized training
+EMP003,James Wilson,Medicinal Chemistry,Lab Safety,2025-01-10,Monica Reyes,Completed,2026-01-10,Annual refresher
+EMP003,James Wilson,Medicinal Chemistry,Chemical Hygiene,2025-01-10,Monica Reyes,Completed,2026-01-10,Required for lab access
+EMP004,Rachel Foster,Biology,Lab Safety,2025-01-12,Monica Reyes,Completed,2026-01-12,Annual refresher
+EMP004,Rachel Foster,Biology,Animal Handling,2025-01-12,External Veterinarian,Completed,2026-01-12,Required for animal work
+EMP004,Rachel Foster,Biology,PDX Model Establishment,2025-02-15,Rachel Foster,Completed,2026-02-15,Protocol training
+EMP004,Rachel Foster,Biology,NanoBRET Assay,2025-05-20,Kevin Zhao,Completed,2026-05-20,New technique
+EMP005,Thomas Anderson,Biology,Lab Safety,2025-01-18,Monica Reyes,Completed,2026-01-18,Annual refresher
+EMP005,Thomas Anderson,Biology,Animal Handling,2025-01-18,External Veterinarian,Completed,2026-01-18,Required for animal work
+EMP006,Linda Wu,Computational Chemistry,Lab Safety,2025-01-08,Monica Reyes,Completed,2026-01-08,Annual refresher
+EMP006,Linda Wu,Computational Chemistry,Data Security,2025-01-08,Kevin Martinez,Completed,2026-01-08,IT security training
+EMP006,Linda Wu,Computational Chemistry,FEP Calculations,2025-03-20,Linda Wu,Completed,2026-03-20,Advanced methods
+EMP006,Linda Wu,Computational Chemistry,Cloud Computing,2025-06-10,External Consultant,Completed,2026-06-10,AWS certification
+EMP007,Mark Davidson,Computational Chemistry,Lab Safety,2025-01-14,Monica Reyes,Completed,2026-01-14,Annual refresher
+EMP007,Mark Davidson,Computational Chemistry,Data Security,2025-01-14,Kevin Martinez,Completed,2026-01-14,IT security training
+EMP008,Jason Park,Bioinformatics,Lab Safety,2025-01-16,Monica Reyes,Completed,2026-01-16,Annual refresher
+EMP008,Jason Park,Bioinformatics,Data Security,2025-01-16,Kevin Martinez,Completed,2026-01-16,IT security training
+EMP008,Jason Park,Bioinformatics,CRISPR Analysis,2025-04-01,Jason Park,Completed,2026-04-01,Specialized training
+EMP008,Jason Park,Bioinformatics,Machine Learning,2025-07-15,External Consultant,Completed,2026-07-15,Advanced ML
+EMP009,Natasha Ivanova,Bioinformatics,Lab Safety,2025-01-22,Monica Reyes,Completed,2026-01-22,Annual refresher
+EMP009,Natasha Ivanova,Bioinformatics,Data Security,2025-01-22,Kevin Martinez,Completed,2026-01-22,IT security training
+EMP010,Derek Chen,Bioinformatics,Lab Safety,2025-01-24,Monica Reyes,Completed,2026-01-24,Annual refresher
+EMP010,Derek Chen,Bioinformatics,Data Security,2025-01-24,Kevin Martinez,Completed,2026-01-24,IT security training
+EMP010,Derek Chen,Bioinformatics,Multi-omics Analysis,2025-05-10,Derek Chen,Completed,2026-05-10,Specialized training
+EMP011,Sam Patel,Bioinformatics,Lab Safety,2025-01-26,Monica Reyes,Completed,2026-01-26,Annual refresher
+EMP011,Sam Patel,Bioinformatics,Data Security,2025-01-26,Kevin Martinez,Completed,2026-01-26,IT security training
+EMP011,Sam Patel,Bioinformatics,Data Visualization,2025-06-20,Sam Patel,Completed,2026-06-20,Advanced techniques
+EMP012,Alex Rodriguez,Bioinformatics,Lab Safety,2025-01-28,Monica Reyes,Completed,2026-01-28,Annual refresher
+EMP012,Alex Rodriguez,Bioinformatics,Data Security,2025-01-28,Kevin Martinez,Completed,2026-01-28,IT security training
+EMP013,Maya Thompson,Bioinformatics,Lab Safety,2025-01-30,Monica Reyes,Completed,2026-01-30,Annual refresher
+EMP013,Maya Thompson,Bioinformatics,Data Security,2025-01-30,Kevin Martinez,Completed,2026-01-30,IT security training
+EMP013,Maya Thompson,Bioinformatics,NGS Analysis,2025-08-15,Maya Thompson,Completed,2026-08-15,Specialized training
+EMP014,Zara Ibrahim,Computational Chemistry,Lab Safety,2025-02-01,Monica Reyes,Completed,2026-02-01,Annual refresher
+EMP014,Zara Ibrahim,Computational Chemistry,Data Security,2025-02-01,Kevin Martinez,Completed,2026-02-01,IT security training
+EMP014,Zara Ibrahim,Computational Chemistry,Machine Learning,2025-07-20,External Consultant,Completed,2026-07-20,Advanced ML
+EMP015,Ryan Cooper,Computational Chemistry,Lab Safety,2025-02-03,Monica Reyes,Completed,2026-02-03,Annual refresher
+EMP015,Ryan Cooper,Computational Chemistry,Data Security,2025-02-03,Kevin Martinez,Completed,2026-02-03,IT security training
+EMP015,Ryan Cooper,Computational Chemistry,Python Programming,2025-09-10,Ryan Cooper,Completed,2026-09-10,Advanced Python
+EMP016,Mei Lin,Computational Chemistry,Lab Safety,2025-02-05,Monica Reyes,Completed,2026-02-05,Annual refresher
+EMP016,Mei Lin,Computational Chemistry,Data Security,2025-02-05,Kevin Martinez,Completed,2026-02-05,IT security training
+EMP016,Mei Lin,Computational Chemistry,Statistical Analysis,2025-08-25,Mei Lin,Completed,2026-08-25,Advanced statistics
+EMP017,Jordan Smith,Computational Chemistry,Lab Safety,2025-02-07,Monica Reyes,Completed,2026-02-07,Annual refresher
+EMP017,Jordan Smith,Computational Chemistry,Data Security,2025-02-07,Kevin Martinez,Completed,2026-02-07,IT security training
+EMP017,Jordan Smith,Computational Chemistry,Molecular Dynamics,2025-09-15,Linda Wu,Completed,2026-09-15,Advanced MD
+EMP018,Casey O'Brien,Computational Chemistry,Lab Safety,2025-02-09,Monica Reyes,Completed,2026-02-09,Annual refresher
+EMP018,Casey O'Brien,Computational Chemistry,Data Security,2025-02-09,Kevin Martinez,Completed,2026-02-09,IT security training
+EMP018,Casey O'Brien,Computational Chemistry,Machine Learning,2025-09-20,External Consultant,Completed,2026-09-20,Advanced ML
+EMP019,Patricia O'Brien,Preclinical Development,Lab Safety,2025-01-05,Monica Reyes,Completed,2026-01-05,Annual refresher
+EMP019,Patricia O'Brien,Preclinical Development,Regulatory Affairs,2025-03-01,External Consultant,Completed,2026-03-01,IND preparation
+EMP019,Patricia O'Brien,Preclinical Development,Good Manufacturing Practice,2025-04-01,External Consultant,Completed,2026-04-01,GMP certification
+EMP020,Yuki Tanaka,Preclinical Development,Lab Safety,2025-01-07,Monica Reyes,Completed,2026-01-07,Annual refresher
+EMP020,Yuki Tanaka,Preclinical Development,LC-MS/MS Analysis,2025-02-20,Yuki Tanaka,Completed,2026-02-20,Advanced techniques
+EMP020,Yuki Tanaka,Preclinical Development,Bioanalytical Method Validation,2025-05-15,External Consultant,Completed,2026-05-15,Regulatory requirement
+EMP021,Elena Popov,Preclinical Development,Lab Safety,2025-01-09,Monica Reyes,Completed,2026-01-09,Annual refresher
+EMP021,Elena Popov,Preclinical Development,ADME Studies,2025-03-15,Elena Popov,Completed,2026-03-15,Specialized training
+EMP021,Elena Popov,Preclinical Development,Microsomal Stability,2025-06-25,Elena Popov,Completed,2026-06-25,Advanced techniques
+EMP022,Ahmed Hassan,Preclinical Development,Lab Safety,2025-01-11,Monica Reyes,Completed,2026-01-11,Annual refresher
+EMP022,Ahmed Hassan,Preclinical Development,PK/PD Modeling,2025-04-10,Ahmed Hassan,Completed,2026-04-10,Specialized training
+EMP022,Ahmed Hassan,Preclinical Development,Pharmacokinetics,2025-07-30,External Consultant,Completed,2026-07-30,Advanced PK
+EMP023,Ryan O'Neill,Preclinical Development,Lab Safety,2025-01-13,Monica Reyes,Completed,2026-01-13,Annual refresher
+EMP023,Ryan O'Neill,Preclinical Development,Sample Preparation,2025-02-25,Ryan O'Neill,Completed,2026-02-25,Technique training
+EMP024,Jessica Martinez,Preclinical Development,Lab Safety,2025-01-17,Monica Reyes,Completed,2026-01-17,Annual refresher
+EMP024,Jessica Martinez,Preclinical Development,Chemical Analysis,2025-03-05,Jessica Martinez,Completed,2026-03-05,Technique training
+EMP025,Chris Thompson,Preclinical Development,Lab Safety,2025-01-19,Monica Reyes,Completed,2026-01-19,Annual refresher
+EMP025,Chris Thompson,Preclinical Development,Sample Processing,2025-03-10,Chris Thompson,Completed,2026-03-10,Technique training
+EMP026,Margaret Sullivan,Preclinical Development,Lab Safety,2025-01-21,Monica Reyes,Completed,2026-01-21,Annual refresher
+EMP026,Margaret Sullivan,Preclinical Development,Toxicology Studies,2025-02-28,Margaret Sullivan,Completed,2026-02-28,Specialized training
+EMP026,Margaret Sullivan,Preclinical Development,Regulatory Toxicology,2025-05-20,External Consultant,Completed,2026-05-20,Regulatory requirement
+EMP027,Daniel Lee,Preclinical Development,Lab Safety,2025-01-23,Monica Reyes,Completed,2026-01-23,Annual refresher
+EMP027,Daniel Lee,Preclinical Development,Safety Pharmacology,2025-04-05,Daniel Lee,Completed,2026-04-05,Specialized training
+EMP028,Fatima Al-Rashid,Preclinical Development,Lab Safety,2025-01-25,Monica Reyes,Completed,2026-01-25,Annual refresher
+EMP028,Fatima Al-Rashid,Preclinical Development,Pharmacology,2025-04-15,Fatima Al-Rashid,Completed,2026-04-15,Specialized training
+EMP029,Laura Peterson,Preclinical Development,Lab Safety,2025-01-27,Monica Reyes,Completed,2026-01-27,Annual refresher
+EMP029,Laura Peterson,Preclinical Development,Sample Handling,2025-03-20,Laura Peterson,Completed,2026-03-20,Technique training
+EMP030,Brandon Wu,Preclinical Development,Lab Safety,2025-01-29,Monica Reyes,Completed,2026-01-29,Annual refresher
+EMP030,Brandon Wu,Preclinical Development,Chemical Analysis,2025-03-25,Brandon Wu,Completed,2026-03-25,Technique training
+EMP031,Steven Park,Preclinical Development,Lab Safety,2025-02-02,Monica Reyes,Completed,2026-02-02,Annual refresher
+EMP031,Steven Park,Preclinical Development,Formulation Development,2025-03-30,Steven Park,Completed,2026-03-30,Specialized training
+EMP031,Steven Park,Preclinical Development,Good Manufacturing Practice,2025-06-05,External Consultant,Completed,2026-06-05,GMP certification
+EMP032,Olivia Martinez,Preclinical Development,Lab Safety,2025-02-04,Monica Reyes,Completed,2026-02-04,Annual refresher
+EMP032,Olivia Martinez,Preclinical Development,Pharmaceutical Sciences,2025-04-20,Olivia Martinez,Completed,2026-04-20,Specialized training
+EMP033,Tyler Harris,Preclinical Development,Lab Safety,2025-02-06,Monica Reyes,Completed,2026-02-06,Annual refresher
+EMP033,Tyler Harris,Preclinical Development,Sample Preparation,2025-04-25,Tyler Harris,Completed,2026-04-25,Technique training
+EMP034,Grace Kim,Preclinical Development,Lab Safety,2025-02-08,Monica Reyes,Completed,2026-02-08,Annual refresher
+EMP034,Grace Kim,Preclinical Development,Chemical Analysis,2025-04-30,Grace Kim,Completed,2026-04-30,Technique training
+EMP047,Carlos Mendez,Screening,Lab Safety,2025-01-31,Monica Reyes,Completed,2026-01-31,Annual refresher
+EMP047,Carlos Mendez,Screening,High-Throughput Screening,2025-03-12,Carlos Mendez,Completed,2026-03-12,Specialized training
+EMP047,Carlos Mendez,Screening,Automation Systems,2025-06-15,External Consultant,Completed,2026-06-15,Equipment training
+EMP048,Hannah Lee,Screening,Lab Safety,2025-02-10,Monica Reyes,Completed,2026-02-10,Annual refresher
+EMP048,Hannah Lee,Screening,Assay Development,2025-03-18,Hannah Lee,Completed,2026-03-18,Specialized training
+EMP049,Robert Taylor,Screening,Lab Safety,2025-02-12,Monica Reyes,Completed,2026-02-12,Annual refresher
+EMP049,Robert Taylor,Screening,Cell-Based Assays,2025-03-22,Robert Taylor,Completed,2026-03-22,Specialized training
+EMP050,Amy Chen,Screening,Lab Safety,2025-02-14,Monica Reyes,Completed,2026-02-14,Annual refresher
+EMP050,Amy Chen,Screening,Equipment Operation,2025-03-25,Amy Chen,Completed,2026-03-25,Technique training
+EMP051,Michael Brown,Screening,Lab Safety,2025-02-16,Monica Reyes,Completed,2026-02-16,Annual refresher
+EMP051,Michael Brown,Screening,Sample Preparation,2025-03-28,Michael Brown,Completed,2026-03-28,Technique training

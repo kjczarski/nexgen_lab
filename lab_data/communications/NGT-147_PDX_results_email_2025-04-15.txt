@@ -1,0 +1,38 @@
+From: r.foster@nexgentherapeutics.com
+To: s.chen@nexgentherapeutics.com, l.wu@nexgentherapeutics.com
+Subject: NGT-147 PDX results - INCREDIBLE!
+Date: April 15, 2025 5:30 PM
+
+Sarah, Linda,
+
+Just finished analyzing the NGT-147 PDX data and I'm literally shaking with excitement!
+
+BRAIN METASTASIS MODEL (NGT-PDX-005):
+- Tumor Growth Inhibition: 78% (p < 0.001)
+- Brain concentration: 2.1 μg/g at 4 hours
+- Plasma concentration: 1.2 μg/mL at 4 hours
+- Brain:plasma ratio: 1.75 (matches Jonathan's PK data!)
+
+This is the BEST brain penetration we've ever seen in our PDX models!
+The compound is actually reaching the brain tumors effectively.
+
+Sarah - your synthesis was perfect. The 2-methoxyethoxy group is the key.
+Linda - your computational predictions were spot-on. The LogP of 2.8 is ideal.
+
+I'm sending the data to Michael Torres immediately. This could be our 
+breakthrough moment for the EGFR program.
+
+Next steps:
+- Test in additional brain metastasis models (NGT-PDX-006)
+- Confirm mechanism of action in brain tissue
+- Prepare data for Go/No-Go meeting
+
+This data is going to blow everyone away at the May meeting!
+
+Rachel
+
+P.S. - Jennifer Martinez is asking about PROTAC brain penetration. 
+Should we test BTK-003 in brain metastasis models too?
+
+---
+Attachment: NGT-147_PDX_brain_metastasis_results.pdf

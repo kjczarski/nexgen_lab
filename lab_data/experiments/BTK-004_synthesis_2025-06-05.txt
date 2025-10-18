@@ -1,0 +1,64 @@
+# Lab Notebook Entry - BTK-004 Synthesis
+
+**Date:** June 5, 2025  
+**Scientist:** Jennifer Martinez  
+**Project:** BTK PROTAC Series  
+**Notebook:** Lab-2025-002, Page 23
+
+## Objective
+Synthesize BTK-004 with 8-carbon linker to improve degradation potency and duration.
+
+## Procedure
+
+### Step 1: BTK Ligand Preparation
+BTK ligand (2.5g, 1.0 eq) was dissolved in DMF (50mL) and cooled to 0°C. 
+TEA (3.5mL, 2.5 eq) was added followed by Boc-protected linker (3.2g, 1.2 eq).
+Reaction stirred at room temperature for 4 hours.
+
+TLC: Rf = 0.6 (30% EtOAc/hexanes)
+LCMS: [M+H]+ = 445.2 (expected 445.2)
+
+### Step 2: Linker Deprotection
+Intermediate A (2.8g) was dissolved in DCM (30mL) and TFA (15mL) was added.
+Reaction stirred at room temperature for 2 hours.
+
+TLC: Rf = 0.4 (30% EtOAc/hexanes)
+LCMS: [M+H]+ = 345.1 (expected 345.1)
+
+### Step 3: PROTAC Assembly
+Intermediate B (2.5g) was dissolved in DMF (40mL) and cooled to 0°C.
+CRBN ligand (2.1g, 1.1 eq) and HATU (1.8g, 1.2 eq) were added.
+Reaction stirred at room temperature for 6 hours.
+
+TLC: Rf = 0.3 (50% EtOAc/hexanes)
+LCMS: [M+H]+ = 678.4 (expected 678.4)
+
+## Workup and Purification
+Reaction mixture poured into water (200mL) and extracted with EtOAc (3 x 100mL).
+Combined organic layers washed with brine (100mL), dried over Na2SO4, and concentrated.
+Crude product purified by flash chromatography (SiO2, 0-60% EtOAc/hexanes).
+
+## Results
+- **Yield:** 1.2g (18% overall)
+- **Purity:** 96.2% by HPLC
+- **Appearance:** White crystalline solid
+- **Melting Point:** 142-144°C
+
+## Analysis
+1H NMR (400MHz, CDCl3): δ 8.25 (s, 1H), 7.85 (d, J=8.8Hz, 1H), 7.65 (d, J=8.4Hz, 1H), 
+7.45 (d, J=8.8Hz, 1H), 7.25 (d, J=8.4Hz, 1H), 6.95 (d, J=8.8Hz, 1H), 6.75 (d, J=8.4Hz, 1H), 
+4.15 (t, J=4.8Hz, 2H), 3.85 (s, 3H), 3.65 (t, J=4.8Hz, 2H), 3.45 (s, 3H), 2.95 (t, J=6.4Hz, 2H),
+2.75 (t, J=6.4Hz, 2H), 2.55 (t, J=6.4Hz, 2H), 2.35 (t, J=6.4Hz, 2H), 2.15 (t, J=6.4Hz, 2H),
+1.95 (t, J=6.4Hz, 2H), 1.75 (t, J=6.4Hz, 2H), 1.55 (t, J=6.4Hz, 2H), 1.35 (t, J=6.4Hz, 2H)
+
+## Comments
+BTK-004 synthesis successful! 8-carbon linker should provide better flexibility.
+Ready for degradation assay testing. Expect improved potency vs BTK-003.
+
+Next steps:
+- Test degradation activity in cells
+- Compare with BTK-003
+- Optimize linker length if needed
+
+Jennifer Martinez  
+6/5/2025

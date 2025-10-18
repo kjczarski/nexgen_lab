@@ -1,0 +1,359 @@
+# Organization structure
+organization:
+  name: "NexGen Therapeutics"
+  identity_context: "Mid-sized biotech company focused on targeted oncology drug discovery. Founded in 2019, located in Cambridge, MA. 56 R&D staff across discovery, preclinical development, and computational sciences divisions."
+  
+  departments:
+    - name: "Discovery Division"
+      identity_context: "Discovery Division led by Dr. Michael Torres, focusing on target identification, medicinal chemistry, biology, and screening. 22 scientists across medicinal chemistry, biology/pharmacology, and screening teams."
+      
+      teams:
+        - name: "Medicinal Chemistry Team"
+          identity_context: "Medicinal chemistry team led by Dr. Sarah Chen, specializing in kinase inhibitor design, structure-based drug design, and PROTAC development. 9 scientists including senior scientists, postdocs, and PhD students."
+          
+          employees:
+            # IDs are AUTO-GENERATED - DO NOT EDIT
+            - id: "emp_001"
+              name: "Dr. Sarah Chen"
+              role: "Team Lead, Medicinal Chemistry (Senior Principal Scientist)"
+              identity_context: "Ph.D. Organic Chemistry from Caltech (2012) with B.S. from UC Berkeley (2007). Senior Principal Scientist and Team Lead for Medicinal Chemistry at NexGen since 2023, previously Senior Scientist (2021-2023). Expert in kinase inhibitor medicinal chemistry, structure-based drug design, and PROTAC optimization. Led synthesis of 200+ compounds in EGFR program and designed NGT-147, the current preclinical candidate. Co-inventor on 14 patents (3 issued, 11 pending) and published 28 papers in medicinal chemistry journals. Previously worked at Bristol Myers Squibb (2017-2021) and Merck (2014-2017) after postdoc at Harvard. Known for collaborative approach with computational chemistry team and insistence on protein crystal structures before design decisions."
+            
+            - id: "emp_002"
+              name: "Dr. Jennifer Martinez"
+              role: "Postdoctoral Fellow, Medicinal Chemistry"
+              identity_context: "Ph.D. Organic Chemistry from UC Berkeley (2023) with B.S. from University of Texas at Austin (2018). Postdoctoral Fellow at NexGen since August 2023, specializing in PROTAC design and synthesis - the only dedicated PROTAC expert at NexGen. Breakthrough achievement: synthesized BTK-003 on June 18, 2025, the first compound showing functional BTK degradation (85% degradation at 100 nM). Designed and synthesized BTK-001 through BTK-015 series (15 compounds in 4 months). Published 4 papers during PhD on PROTAC design and nominated for Berkeley Chemistry Department Outstanding Thesis Award. Highly motivated, works long hours, and maintains excellent lab notebooks. Career goal: transition to industry staff scientist role, with Sarah Chen advocating for conversion if BTK program continues advancing."
+            
+            - id: "emp_003"
+              name: "Dr. James Wilson"
+              role: "Senior Scientist, Medicinal Chemistry"
+              identity_context: "Senior Scientist in Medicinal Chemistry with 8+ years industry experience in kinase inhibitor design and optimization. Expert in heterocyclic chemistry, multi-parameter optimization, and structure-activity relationship analysis. Key contributor to EGFR program compound optimization, working closely with Sarah Chen on lead compound synthesis and characterization. Strong background in medicinal chemistry principles and drug discovery workflows. Experienced in collaborating with biology and computational chemistry teams for integrated drug discovery approaches."
+            
+            - id: "emp_035"
+              name: "Dr. Priya Sharma"
+              role: "Senior Scientist, Medicinal Chemistry"
+              identity_context: "Ph.D. Organic Chemistry from University of Illinois at Urbana-Champaign (2016) with B.S. in Chemistry from University of Delhi (2011). Senior Scientist in Medicinal Chemistry at NexGen since 2021, previously scientist at Eli Lilly (2018-2021), postdoc at UC Berkeley (2016-2018). Expert in medicinal chemistry and drug design, heterocyclic chemistry, structure-activity relationship analysis, lead optimization, and synthetic chemistry. Key contributor to EGFR program compound optimization, synthesized 50+ compounds in NGT-147 series, expert in pyrimidine and quinazoline chemistry. Methodical and detail-oriented synthetic chemist, known for high-quality compound synthesis and excellent analytical characterization."
+            
+            - id: "emp_036"
+              name: "Dr. David Kim"
+              role: "Scientist, Medicinal Chemistry"
+              identity_context: "Ph.D. Organic Chemistry from University of Wisconsin-Madison (2019) with B.S. in Chemistry from Northwestern University (2014). Scientist in Medicinal Chemistry at NexGen since 2021, previously postdoc at University of Pennsylvania (2019-2021). Expert in synthetic organic chemistry, medicinal chemistry, fragment-based drug discovery, multi-step synthesis, and analytical chemistry. Synthesized backup compounds for EGFR program, expert in complex multi-step syntheses, key contributor to BTK PROTAC linker optimization. Enthusiastic synthetic chemist with strong problem-solving skills, known for tackling challenging synthetic routes and finding creative solutions."
+            
+            - id: "emp_037"
+              name: "Dr. Maria Garcia"
+              role: "Scientist, Medicinal Chemistry"
+              identity_context: "Ph.D. Medicinal Chemistry from University of Barcelona (2018) with M.S. and B.S. in Chemistry from Autonomous University of Madrid and University of Seville. Scientist in Medicinal Chemistry at NexGen since 2021, previously postdoc at University of Cambridge (2018-2021). Expert in medicinal chemistry, drug metabolism and pharmacokinetics, ADMET property optimization, structure-based drug design, and fragment-based approaches. Focused on ADMET property optimization for EGFR compounds, collaborates closely with DMPK team on property predictions, synthesized NGT-147 analogs with improved metabolic stability. Analytical chemist with strong focus on drug-like properties, known for thorough compound characterization and attention to ADMET considerations."
+            
+            - id: "emp_038"
+              name: "Dr. Alex Okonkwo"
+              role: "Postdoctoral Fellow, Medicinal Chemistry"
+              identity_context: "Ph.D. Organic Chemistry from University of Manchester (2021) with M.S. from Imperial College London (2017) and B.S. from University of Lagos (2015). Postdoctoral Fellow in Medicinal Chemistry at NexGen since 2022, previously graduate student at University of Manchester. Expert in synthetic organic chemistry, medicinal chemistry, heterocyclic chemistry, multi-step synthesis, and catalysis. Synthesized compounds for CDK2 inhibitor program, expert in transition metal catalysis, key contributor to fragment-based drug discovery efforts. Energetic and creative synthetic chemist, known for exploring new synthetic routes and methodologies, eager to learn from senior scientists."
+            
+            - id: "emp_039"
+              name: "Lisa Zhang"
+              role: "PhD Student, Medicinal Chemistry"
+              identity_context: "Ph.D. in Chemistry (in progress) at MIT with B.S. in Chemistry from UC Berkeley (2022). PhD Student in Medicinal Chemistry at NexGen since 2022. Research focus: medicinal chemistry and drug design, synthetic organic chemistry, structure-activity relationships, and lead optimization. Working on EGFR program backup compounds, synthesized 20+ compounds under Sarah Chen's supervision, developing expertise in kinase inhibitor design. Dedicated graduate student with strong synthetic chemistry skills, known for meticulous lab work and excellent documentation, eager to learn medicinal chemistry principles."
+            
+            - id: "emp_040"
+              name: "Marcus Johnson"
+              role: "PhD Student, Medicinal Chemistry"
+              identity_context: "Ph.D. in Chemistry (in progress) at Harvard University with B.S. in Chemistry from University of Michigan (2022). PhD Student in Medicinal Chemistry at NexGen since 2022. Research focus: medicinal chemistry, synthetic organic chemistry, PROTAC design and synthesis, and fragment-based drug discovery. Working on BTK PROTAC program under Jennifer Martinez's mentorship, synthesized BTK-008 through BTK-012 series, developing expertise in PROTAC linker chemistry. Motivated graduate student with strong interest in PROTAC technology, known for creative problem-solving and willingness to tackle challenging synthetic routes."
+        
+        - name: "Biology & Pharmacology Team"
+          identity_context: "Biology team led by Dr. Rachel Foster, specializing in PDX models, target validation, and mechanism of action studies. 8 scientists including postdocs, PhD students, and technicians."
+          
+          employees:
+            - id: "emp_004"
+              name: "Dr. Rachel Foster"
+              role: "Team Lead, Biology & Pharmacology (Principal Scientist)"
+              identity_context: "Ph.D. Cancer Biology from Stanford University (2013) with B.S. in Molecular Biology from University of Wisconsin-Madison (2008). Principal Scientist and Team Lead for Biology & Pharmacology at NexGen since 2023, previously Senior Scientist (2021-2023). Expert in patient-derived xenograft (PDX) models - established NexGen's PDX program from scratch with 8 lung cancer models in-house. Validated NGT-147 efficacy in brain metastasis PDX model showing 78% tumor growth inhibition, which convinced leadership to nominate it as preclinical candidate. Published 24 papers in cancer biology journals and developed 3D organoid model for EGFR mutant lung cancer. Previously worked at Genentech (2017-2021) and AstraZeneca (2015-2017) after postdoc at Dana-Farber Cancer Institute. Known for detail-oriented approach and insistence on proper controls in all experiments."
+            
+            - id: "emp_005"
+              name: "Dr. Thomas Anderson"
+              role: "Scientist, Biology & Pharmacology"
+              identity_context: "Scientist in Biology & Pharmacology with 6+ years experience in oncology research and cancer biology. Expert in cell signaling pathway analysis, drug resistance mechanisms, and target validation studies. Key contributor to NexGen's target validation efforts across multiple programs. Skilled in cell-based assays, western blotting, immunofluorescence, and flow cytometry. Experienced in collaborating with medicinal chemistry teams to prioritize compound testing and provide biological insights for drug discovery programs."
+            
+            - id: "emp_041"
+              name: "Dr. Nina Patel"
+              role: "Scientist, Biology & Pharmacology"
+              identity_context: "Ph.D. Molecular Biology from UCSF (2019) with B.S. in Biology from UC Berkeley (2014). Scientist in Biology & Pharmacology at NexGen since 2021, previously postdoc at UCSF (2019-2021). Expert in cancer cell biology, cell signaling pathways, drug resistance mechanisms, apoptosis and cell death, and western blotting and immunofluorescence. Key contributor to EGFR program biology studies, developed resistance models for NGT-147 testing, expert in cell-based proliferation and apoptosis assays. Detail-oriented biologist with strong expertise in cancer cell biology, known for rigorous experimental design and excellent data analysis skills."
+            
+            - id: "emp_042"
+              name: "Dr. Kevin Zhao"
+              role: "Postdoctoral Fellow, Biology & Pharmacology"
+              identity_context: "Ph.D. Pharmacology from Johns Hopkins University (2022) with B.S. in Biology from University of Maryland (2017). Postdoctoral Fellow in Biology & Pharmacology at NexGen since 2022, previously graduate student at Johns Hopkins. Expert in target engagement assays (NanoBRET), pharmacology and drug action, kinase biology, cell signaling, and flow cytometry. Trained Rachel Foster's team on NanoBRET target engagement assays, developed target engagement protocols for EGFR inhibitors, key contributor to BTK PROTAC target engagement studies. Enthusiastic postdoc with strong pharmacology background, known for teaching others new techniques and excellent experimental execution."
+            
+            - id: "emp_043"
+              name: "Dr. Aisha Mohammed"
+              role: "Postdoctoral Fellow, Biology & Pharmacology"
+              identity_context: "Ph.D. Cancer Biology from University of Toronto (2022) with M.S. from McGill University (2018) and B.S. from University of British Columbia (2016). Postdoctoral Fellow in Biology & Pharmacology at NexGen since 2023, previously graduate student at University of Toronto. Expert in cancer biology, drug resistance mechanisms, 3D spheroid and organoid cultures, cell migration and invasion assays, and immunofluorescence microscopy. Working on CDK2 inhibitor program biology studies, developing 3D organoid models for drug testing, contributing to resistance mechanism studies. Innovative biologist with expertise in advanced cell culture models, known for developing new assay systems and thinking creatively about experimental approaches."
+            
+            - id: "emp_044"
+              name: "Emma Williams"
+              role: "PhD Student, Biology & Pharmacology"
+              identity_context: "Ph.D. in Cancer Biology (in progress) at Stanford University with B.S. in Biology from University of Wisconsin-Madison (2022). PhD Student in Biology & Pharmacology at NexGen since 2022. Research focus: cancer biology, drug mechanism of action studies, cell signaling pathways, apoptosis and cell death, and western blotting and microscopy. Working on EGFR program mechanism of action studies, contributing to NGT-147 efficacy studies, developing expertise in cancer cell biology. Dedicated graduate student with strong interest in cancer biology, known for meticulous experimental work and excellent data documentation."
+            
+            - id: "emp_045"
+              name: "Jake Morrison"
+              role: "PhD Student, Biology & Pharmacology"
+              identity_context: "Ph.D. in Molecular Biology (in progress) at UC San Diego with B.S. in Biology from University of Washington (2022). PhD Student in Biology & Pharmacology at NexGen since 2022. Research focus: molecular biology, drug resistance mechanisms, cell signaling, flow cytometry, and cell culture techniques. Working on BTK PROTAC program biology studies, contributing to degradation assay development, learning flow cytometry techniques. Motivated graduate student with strong molecular biology background, known for careful experimental execution and good analytical skills."
+            
+            - id: "emp_046"
+              name: "Sophie Laurent"
+              role: "Research Technician, Biology & Pharmacology"
+              identity_context: "B.S. in Biology from Boston University (2020) with A.S. in Laboratory Science from Bunker Hill Community College (2018). Research Technician in Biology & Pharmacology at NexGen since 2021, previously lab technician at Boston University (2020-2021). Expert in cell culture maintenance, basic molecular biology techniques, assay preparation and execution, laboratory equipment operation, and data entry and documentation. Maintains all cell lines for biology team, prepares reagents and media for experiments, supports PDX model maintenance. Reliable and detail-oriented technician with excellent organizational skills, known for maintaining high-quality cell cultures and supporting multiple projects simultaneously."
+        
+        - name: "Screening & Assays Team"
+          identity_context: "Screening & Assays team led by Dr. Carlos Mendez, specializing in high-throughput screening, assay development, and hit identification. 5 scientists including senior scientists, scientists, and technicians."
+          
+          employees:
+            - id: "emp_047"
+              name: "Dr. Carlos Mendez"
+              role: "Team Lead, Screening & Assays (Senior Scientist)"
+              identity_context: "Ph.D. Biochemistry from UCLA (2015) with B.S. in Chemistry from University of Southern California (2010). Team Lead in Screening & Assays at NexGen since 2020, previously Senior Scientist at Gilead Sciences (2017-2020), Scientist at Amgen (2015-2017). Expert in high-throughput screening (HTS) assay development, biochemical and cell-based assay design, automation and robotics, hit identification and validation, and assay optimization and troubleshooting. Supervises 2 scientists and 2 technicians, manages screening lab operations and automation systems with $600K annual budget. Detail-oriented with focus on assay reproducibility and data quality, known for rapid assay development and troubleshooting capabilities."
+            
+            - id: "emp_048"
+              name: "Dr. Hannah Lee"
+              role: "Scientist, Screening & Assays"
+              identity_context: "Ph.D. Biochemistry from University of North Carolina at Chapel Hill (2018) with B.S. in Chemistry from Duke University (2013). Scientist in Screening & Assays at NexGen since 2020, previously postdoc at UNC Chapel Hill (2018-2020). Expert in high-throughput screening assay development, biochemical assay design and optimization, automation and robotics, hit identification and validation, and enzyme kinetics. Developed CDK2 screening assays for HTS campaign, optimized EGFR kinase assays for compound testing, key contributor to assay automation and throughput. Methodical scientist with strong expertise in assay development, known for optimizing assay conditions and ensuring reproducible results."
+            
+            - id: "emp_049"
+              name: "Dr. Robert Taylor"
+              role: "Scientist, Screening & Assays"
+              identity_context: "Ph.D. Pharmacology from UC Irvine (2019) with B.S. in Biology from UCLA (2014). Scientist in Screening & Assays at NexGen since 2021, previously postdoc at UC Irvine (2019-2021). Expert in cell-based screening assays, pharmacology and drug action, high-content screening, image analysis, and assay validation. Developed cell-based assays for EGFR inhibitors, contributed to BTK PROTAC screening protocols, expert in high-content imaging and analysis. Detail-oriented scientist with expertise in cell-based assays, known for thorough assay validation and excellent data analysis."
+            
+            - id: "emp_050"
+              name: "Amy Chen"
+              role: "Technician, Screening & Assays"
+              identity_context: "B.S. in Biology from Northeastern University (2021) with A.S. in Laboratory Science from Middlesex Community College (2019). Technician in Screening & Assays at NexGen since 2021, previously lab assistant at Northeastern University (2019-2021). Expert in laboratory automation, assay execution and data collection, equipment maintenance and operation, sample preparation and handling, and data entry and documentation. Operates high-throughput screening equipment, maintains screening lab operations, supports all screening campaigns. Reliable technician with excellent technical skills, known for maintaining equipment and ensuring smooth screening operations."
+            
+            - id: "emp_051"
+              name: "Michael Brown"
+              role: "Technician, Screening & Assays"
+              identity_context: "B.S. in Chemistry from University of Massachusetts Amherst (2021) with A.S. in Chemistry from Holyoke Community College (2019). Technician in Screening & Assays at NexGen since 2021, previously lab assistant at UMass Amherst (2019-2021). Expert in chemical assay preparation, sample handling and processing, equipment operation and maintenance, data collection and analysis, and laboratory safety protocols. Prepares reagents and solutions for screening, maintains chemical inventory and supplies, supports biochemical assay execution. Organized technician with strong chemistry background, known for careful sample handling and maintaining high-quality lab standards."
+    
+    - name: "Computational Sciences Division"
+      identity_context: "Computational Sciences Division led by Dr. Amit Patel, focusing on computational chemistry, bioinformatics, and AI-driven drug discovery. 13 scientists across computational chemistry and bioinformatics teams."
+      
+      teams:
+        - name: "Computational Chemistry Team"
+          identity_context: "Computational chemistry team led by Dr. Linda Wu, specializing in structure-based drug design, molecular dynamics, and FEP calculations. 7 scientists including senior scientists, postdocs, and PhD students."
+          
+          employees:
+            - id: "emp_006"
+              name: "Dr. Linda Wu"
+              role: "Team Lead, Computational Chemistry & Modeling (Principal Scientist)"
+              identity_context: "Ph.D. Computational Chemistry from University of California, San Diego (2011) with M.S. and B.S. from Peking University (2006, 2004). Principal Scientist and Team Lead for Computational Chemistry & Modeling at NexGen since 2022, previously Senior Scientist (2020-2022). Expert in structure-based drug design, molecular dynamics simulations, and FEP calculations. Developed proprietary FEP workflow reducing compute time by 40%. Computational predictions directly led to NGT-147 discovery. Published 31 papers in computational chemistry and speaker at 12 international conferences. Former Schrödinger employee (2013-2016) with expert-level knowledge of Schrödinger suite. Previously worked at Amgen (2016-2020) and UCSF postdoc (2011-2013). Known for bridging computational and experimental teams with rapid turnaround on modeling requests."
+            
+            - id: "emp_007"
+              name: "Dr. Mark Davidson"
+              role: "Senior Scientist, Computational Chemistry"
+              identity_context: "Senior Scientist in Computational Chemistry with 10+ years experience in computational drug design and molecular modeling. Expert in QSAR modeling, virtual screening, machine learning applications in drug discovery, and compound property predictions. Key contributor to NexGen's computational chemistry efforts, working closely with Linda Wu on structure-based design projects. Skilled in molecular dynamics simulations, docking studies, and ADMET property predictions. Experienced in collaborating with medicinal chemistry teams to guide compound optimization strategies."
+        
+        - name: "Bioinformatics Team"
+          identity_context: "Bioinformatics team led by Dr. Jason Park, specializing in multi-omics data integration, CRISPR screen analysis, and systems biology. 6 scientists including data scientists and bioinformaticians."
+          
+          employees:
+            - id: "emp_008"
+              name: "Dr. Jason Park"
+              role: "Team Lead, Bioinformatics & Data Science (Senior Scientist)"
+              identity_context: "Senior Scientist and Team Lead for Bioinformatics & Data Science at NexGen since 2020, recruited by Amit Patel to build computational biology capabilities. Expert in multi-omics data integration (genomics, transcriptomics, proteomics), machine learning for drug discovery, and CRISPR screen analysis using MAGeCK and BAGEL. Led target identification for Project Aurora, NexGen's bioinformatics-driven target discovery initiative. Expert in Python, R, machine learning (TensorFlow, PyTorch), and cloud computing infrastructure (AWS, Google Cloud). Manages 6 scientists across bioinformatics and data science teams. Strong background in systems biology, pathway analysis, and network modeling for drug discovery applications."
+            
+            - id: "emp_009"
+              name: "Dr. Natasha Ivanova"
+              role: "Scientist, Bioinformatics"
+              identity_context: "Scientist in Bioinformatics with 5+ years experience in computational biology and bioinformatics. Specializes in RNA-seq analysis, pathway modeling, network analysis, and systems biology approaches. Key contributor to Project Aurora target validation studies, working closely with Jason Park on multi-omics data integration. Skilled in statistical analysis, data visualization, and biological interpretation of large-scale datasets. Experienced in collaborating with biology teams to validate computational predictions experimentally."
+            
+            - id: "emp_010"
+              name: "Dr. Derek Chen"
+              role: "Scientist, Bioinformatics"
+              identity_context: "Ph.D. Bioinformatics from UCSF (2020) with B.S. in Computer Science from UC Berkeley (2015). Scientist in Bioinformatics at NexGen since 2021, previously postdoc at UCSF. Expert in multi-omics data analysis, machine learning applications, Python and R programming, and statistical analysis. Key contributor to Project Aurora target identification, expert in RNA-seq and proteomics analysis. Developed machine learning models for target discovery and collaborates closely with Jason Park on bioinformatics projects. Analytical scientist with strong computational background, known for thorough data analysis and excellent programming skills."
+            
+            - id: "emp_011"
+              name: "Sam Patel"
+              role: "Data Scientist, Bioinformatics"
+              identity_context: "M.S. Data Science from UC San Diego (2021) with B.S. in Computer Science from UCLA (2019). Data Scientist in Bioinformatics at NexGen since 2021, previously data analyst at UC San Diego. Expert in data science and analytics, machine learning, Python and R programming, statistical analysis, and data visualization. Develops machine learning models for drug discovery, conducts data analysis for Project Aurora, expert in data visualization and reporting. Creative data scientist with strong analytical skills, known for developing innovative data analysis approaches and excellent visualization capabilities."
+            
+            - id: "emp_012"
+              name: "Alex Rodriguez"
+              role: "Data Scientist, Bioinformatics"
+              identity_context: "M.S. Bioinformatics from UC Berkeley (2021) with B.S. in Biology from UC Davis (2019). Data Scientist in Bioinformatics at NexGen since 2021, previously research assistant at UC Berkeley. Expert in bioinformatics and data science, machine learning applications, Python and R programming, statistical analysis, and database management. Develops bioinformatics tools and pipelines, conducts data analysis for target discovery, expert in database design and management. Methodical data scientist with strong bioinformatics background, known for developing robust computational tools and excellent database management skills."
+            
+            - id: "emp_013"
+              name: "Maya Thompson"
+              role: "Bioinformatician, Bioinformatics"
+              identity_context: "M.S. Bioinformatics from Johns Hopkins University (2021) with B.S. in Biology from University of Maryland (2019). Bioinformatician in Bioinformatics at NexGen since 2021, previously research assistant at Johns Hopkins. Expert in bioinformatics analysis, next-generation sequencing, Python and R programming, statistical analysis, and data visualization. Conducts bioinformatics analysis for Project Aurora, expert in NGS data analysis, develops analysis pipelines. Detail-oriented bioinformatician with strong analytical skills, known for thorough data analysis and excellent documentation."
+            
+            - id: "emp_014"
+              name: "Dr. Zara Ibrahim"
+              role: "Senior Scientist, Computational Chemistry"
+              identity_context: "Ph.D. Computational Chemistry from University of Cambridge (2018) with M.S. and B.S. from University of Oxford and Imperial College London. Senior Scientist in Computational Chemistry at NexGen since 2021, previously scientist at GSK. Expert in molecular dynamics simulations, protein-ligand binding predictions, virtual screening and docking, machine learning applications, and cloud computing. Key contributor to NGT-147 computational predictions, expert in molecular dynamics simulations, developed machine learning models for compound property prediction. Innovative computational chemist with strong machine learning background, known for developing new computational methods and excellent problem-solving skills."
+            
+            - id: "emp_015"
+              name: "Dr. Ryan Cooper"
+              role: "Postdoctoral Fellow, Computational Chemistry"
+              identity_context: "Ph.D. Computational Chemistry from UC Berkeley (2022) with B.S. in Chemistry from UCLA (2017). Postdoctoral Fellow in Computational Chemistry at NexGen since 2022, previously graduate student at UC Berkeley. Expert in free energy calculations, molecular dynamics simulations, protein modeling, machine learning, and Python programming. Working on FEP calculations for compound optimization, contributing to NGT-147 computational predictions, developing new computational workflows. Enthusiastic postdoc with strong computational chemistry background, known for creative problem-solving and willingness to tackle challenging computational problems."
+            
+            - id: "emp_016"
+              name: "Dr. Mei Lin"
+              role: "Postdoctoral Fellow, Computational Chemistry"
+              identity_context: "Ph.D. Computational Chemistry from Peking University (2022) with M.S. and B.S. from Peking University. Postdoctoral Fellow in Computational Chemistry at NexGen since 2022, previously graduate student at Peking University. Expert in QSAR modeling, virtual screening, machine learning applications, statistical analysis, and data visualization. Working on QSAR models for compound property prediction, contributing to virtual screening campaigns, developing machine learning models. Analytical postdoc with strong statistical background, known for thorough data analysis and excellent visualization skills."
+            
+            - id: "emp_017"
+              name: "Jordan Smith"
+              role: "PhD Student, Computational Chemistry"
+              identity_context: "Ph.D. in Chemistry (in progress) at MIT with B.S. in Chemistry from UC Berkeley (2022). PhD Student in Computational Chemistry at NexGen since 2022. Research focus: computational chemistry, molecular modeling, machine learning, Python programming, and data analysis. Working on molecular dynamics simulations, contributing to compound property predictions, learning advanced computational methods, developing Python scripts for data analysis. Motivated graduate student with strong computational chemistry interest, known for excellent programming skills and eagerness to learn new methods."
+            
+            - id: "emp_018"
+              name: "Casey O'Brien"
+              role: "PhD Student, Computational Chemistry"
+              identity_context: "Ph.D. in Chemistry (in progress) at Stanford University with B.S. in Chemistry from University of Michigan (2022). PhD Student in Computational Chemistry at NexGen since 2022. Research focus: computational chemistry, machine learning, data science, Python programming, and statistical analysis. Working on machine learning models for drug discovery, contributing to data analysis projects, learning advanced computational methods, developing data visualization tools. Enthusiastic graduate student with strong interest in machine learning applications, known for creative problem-solving and excellent analytical skills."
+    
+    - name: "Preclinical Development Division"
+      identity_context: "Preclinical Development Division led by Dr. Patricia O'Brien, focusing on DMPK, toxicology, and formulation sciences. 16 scientists across DMPK, toxicology, and formulation teams."
+      
+      teams:
+        - name: "DMPK Team"
+          identity_context: "DMPK team led by Dr. Jonathan Hughes, specializing in drug metabolism, pharmacokinetics, and brain penetration studies. 7 scientists including senior scientists, scientists, and technicians."
+          
+          employees:
+            - id: "emp_019"
+              name: "Dr. Patricia O'Brien"
+              role: "Director of Preclinical Development Division"
+              identity_context: "Ph.D. Pharmacology from University of Michigan (2006) with B.S. in Pharmaceutical Sciences from University of North Carolina (2001). Director of Preclinical Development at NexGen since 2019, previously Senior Director at Takeda Pharmaceuticals (2014-2019), Associate Director at Biogen (2010-2014), Senior Scientist at Pfizer (2008-2010). Expert in drug metabolism and pharmacokinetics (DMPK), PK/PD modeling, formulation sciences, IND-enabling study design, preclinical safety assessment, and regulatory strategy for IND submissions. Led IND submissions for 4 compounds (3 approved, 1 pending), NGT-147 brain penetration optimization, established NexGen's DMPK and formulation capabilities. Manages 16 scientists and support staff with $4.2M annual budget. Extremely organized and deadline-driven, known for running tight timelines on IND packages without cutting corners."
+            
+            - id: "emp_020"
+              name: "Dr. Yuki Tanaka"
+              role: "Senior Scientist, DMPK"
+              identity_context: "Ph.D. Pharmaceutical Sciences from University of Tokyo (2017) with M.S. and B.S. from University of Tokyo. Senior Scientist in DMPK at NexGen since 2020, previously scientist at Takeda Pharmaceuticals (2017-2020). Expert in drug metabolism and pharmacokinetics, in vivo ADME studies, metabolite identification, bioanalytical LC-MS/MS, and PK/PD modeling. Key contributor to NGT-147 DMPK profiling, expert in metabolite identification and characterization, developed bioanalytical methods for IND-enabling studies. Methodical scientist with strong analytical chemistry background, known for thorough metabolite identification and excellent bioanalytical method development."
+            
+            - id: "emp_021"
+              name: "Dr. Elena Popov"
+              role: "Scientist, DMPK"
+              identity_context: "Ph.D. Pharmaceutical Sciences from University of Washington (2020) with B.S. in Chemistry from UC Berkeley (2015). Scientist in DMPK at NexGen since 2021, previously postdoc at University of Washington. Expert in drug metabolism, pharmacokinetics, in vitro ADME studies, microsomal stability assays, and permeability studies. Conducts microsomal stability and permeability assays, key contributor to compound property optimization, supports IND-enabling study preparation. Energetic scientist with strong DMPK background, known for rapid turnaround on microsomal stability and permeability assays (often same-day results)."
+            
+            - id: "emp_022"
+              name: "Dr. Ahmed Hassan"
+              role: "Scientist, DMPK"
+              identity_context: "Ph.D. Pharmacology from University of Cairo (2019) with M.S. in Pharmaceutical Sciences and B.S. in Pharmacy from University of Cairo. Scientist in DMPK at NexGen since 2021, previously postdoc at University of Cairo. Expert in pharmacokinetics and pharmacodynamics, PK/PD modeling and simulation, in vivo studies, bioanalytical method development, and drug-drug interactions. Conducts PK/PD modeling studies, supports in vivo PK studies, key contributor to bioanalytical method development. Analytical scientist with strong modeling background, known for thorough PK/PD analysis and excellent statistical skills."
+            
+            - id: "emp_023"
+              name: "Ryan O'Neill"
+              role: "Technician, DMPK"
+              identity_context: "B.S. in Biology from University of Massachusetts Boston (2020) with A.S. in Laboratory Science from Bunker Hill Community College (2018). Technician in DMPK at NexGen since 2021, previously lab assistant at UMass Boston. Expert in sample preparation and processing, bioanalytical sample handling, equipment operation and maintenance, data entry and documentation, and laboratory safety protocols. Prepares samples for bioanalytical analysis, maintains DMPK lab equipment, supports PK study sample processing. Reliable technician with excellent organizational skills, known for careful sample handling and maintaining high-quality lab standards."
+            
+            - id: "emp_024"
+              name: "Jessica Martinez"
+              role: "Technician, DMPK"
+              identity_context: "B.S. in Chemistry from Northeastern University (2021) with A.S. in Chemistry from Middlesex Community College (2019). Technician in DMPK at NexGen since 2021, previously lab assistant at Northeastern University. Expert in chemical analysis and sample preparation, equipment operation and maintenance, data collection and analysis, laboratory inventory management, and quality control procedures. Conducts routine DMPK assays, maintains chemical inventory and supplies, supports bioanalytical method validation. Detail-oriented technician with strong chemistry background, known for maintaining equipment and ensuring smooth DMPK operations."
+            
+            - id: "emp_025"
+              name: "Chris Thompson"
+              role: "Technician, DMPK"
+              identity_context: "B.S. in Biology from University of New Hampshire (2021) with A.S. in Laboratory Science from Manchester Community College (2019). Technician in DMPK at NexGen since 2021, previously lab assistant at University of New Hampshire. Expert in sample processing and analysis, equipment operation and maintenance, data entry and documentation, laboratory safety protocols, and quality assurance procedures. Processes samples for PK studies, maintains laboratory equipment, supports DMPK study execution. Conscientious technician with strong attention to detail, known for careful sample processing and maintaining high-quality lab standards."
+        
+        - name: "Toxicology Team"
+          identity_context: "Toxicology team led by Dr. Margaret Sullivan, specializing in preclinical safety assessment and regulatory toxicology. 5 scientists including senior scientists, scientists, and technicians."
+          
+          employees:
+            - id: "emp_026"
+              name: "Dr. Margaret Sullivan"
+              role: "Team Lead, Toxicology (Senior Scientist)"
+              identity_context: "Ph.D. Toxicology from University of North Carolina at Chapel Hill (2010) with B.S. in Biology from Duke University (2005). Team Lead in Toxicology at NexGen since 2019, previously Senior Scientist at Vertex Pharmaceuticals (2015-2019), Scientist at Biogen (2012-2015). Expert in preclinical safety assessment, toxicology study design, risk assessment, regulatory toxicology, and CRO management. Supervises 2 scientists and 2 technicians, manages toxicology lab operations, coordinates with 3 toxicology CROs with $800K annual budget. Detail-oriented toxicologist with strong regulatory background, known for thorough study design and excellent CRO management."
+            
+            - id: "emp_027"
+              name: "Dr. Daniel Lee"
+              role: "Scientist, Toxicology"
+              identity_context: "Ph.D. Toxicology from University of California, Davis (2019) with B.S. in Biology from UCLA (2014). Scientist in Toxicology at NexGen since 2021, previously postdoc at UC Davis. Expert in preclinical toxicology, safety pharmacology, risk assessment, study design and execution, and data analysis and interpretation. Conducts early tox assessments for discovery compounds, supports IND-enabling tox study design, key contributor to safety risk assessments. Methodical scientist with strong toxicology background, known for thorough risk assessment and excellent study design."
+            
+            - id: "emp_028"
+              name: "Dr. Fatima Al-Rashid"
+              role: "Scientist, Toxicology"
+              identity_context: "Ph.D. Pharmacology from King Saud University (2020) with M.S. in Toxicology and B.S. in Pharmacy from King Saud University. Scientist in Toxicology at NexGen since 2021, previously postdoc at King Saud University. Expert in toxicology and safety assessment, pharmacology, drug safety evaluation, study design and execution, and regulatory compliance. Conducts safety pharmacology studies, supports toxicology study execution, key contributor to safety risk assessments. Dedicated scientist with strong pharmacology and toxicology background, known for thorough safety evaluations and excellent regulatory knowledge."
+            
+            - id: "emp_029"
+              name: "Laura Peterson"
+              role: "Technician, Toxicology"
+              identity_context: "B.S. in Biology from University of Massachusetts Lowell (2020) with A.S. in Laboratory Science from Northern Essex Community College (2018). Technician in Toxicology at NexGen since 2021, previously lab assistant at UMass Lowell. Expert in sample preparation and processing, equipment operation and maintenance, data entry and documentation, laboratory safety protocols, and quality control procedures. Prepares samples for toxicology studies, maintains toxicology lab equipment, supports study execution and data collection. Reliable technician with excellent organizational skills, known for careful sample handling and maintaining high-quality lab standards."
+            
+            - id: "emp_030"
+              name: "Brandon Wu"
+              role: "Technician, Toxicology"
+              identity_context: "B.S. in Chemistry from University of California, Irvine (2021) with A.S. in Chemistry from Orange Coast College (2019). Technician in Toxicology at NexGen since 2021, previously lab assistant at UC Irvine. Expert in chemical analysis and sample preparation, equipment operation and maintenance, data collection and analysis, laboratory inventory management, and quality assurance procedures. Conducts routine toxicology assays, maintains chemical inventory and supplies, supports toxicology study execution. Detail-oriented technician with strong chemistry background, known for maintaining equipment and ensuring smooth toxicology operations."
+        
+        - name: "Formulation Sciences Team"
+          identity_context: "Formulation Sciences team led by Dr. Steven Park, specializing in pharmaceutical formulation development and drug delivery systems. 4 scientists including senior scientists, scientists, and technicians."
+          
+          employees:
+            - id: "emp_031"
+              name: "Dr. Steven Park"
+              role: "Team Lead, Formulation Sciences (Senior Scientist)"
+              identity_context: "Ph.D. Pharmaceutical Sciences from University of Michigan (2015) with B.S. in Chemistry from UC Berkeley (2010). Team Lead in Formulation Sciences at NexGen since 2020, previously Senior Scientist at Genentech (2017-2020), Scientist at Pfizer (2015-2017). Expert in pharmaceutical formulation development, drug delivery systems, solubility enhancement, stability studies, and manufacturing processes. Supervises 1 scientist and 2 technicians, manages formulation lab operations with $400K annual budget. Innovative formulator with strong pharmaceutical sciences background, known for developing robust formulations and excellent problem-solving skills."
+            
+            - id: "emp_032"
+              name: "Dr. Olivia Martinez"
+              role: "Scientist, Formulation Sciences"
+              identity_context: "Ph.D. Pharmaceutical Sciences from University of Texas at Austin (2020) with B.S. in Chemistry from UT Austin (2015). Scientist in Formulation Sciences at NexGen since 2021, previously postdoc at UT Austin. Expert in pharmaceutical formulation, drug delivery systems, solubility studies, stability testing, and analytical method development. Develops formulations for discovery compounds, conducts solubility and stability studies, supports formulation optimization efforts. Methodical scientist with strong formulation background, known for thorough stability testing and excellent analytical skills."
+            
+            - id: "emp_033"
+              name: "Tyler Harris"
+              role: "Technician, Formulation Sciences"
+              identity_context: "B.S. in Chemistry from University of Massachusetts Amherst (2021) with A.S. in Chemistry from Holyoke Community College (2019). Technician in Formulation Sciences at NexGen since 2021, previously lab assistant at UMass Amherst. Expert in sample preparation and processing, equipment operation and maintenance, data entry and documentation, laboratory safety protocols, and quality control procedures. Prepares formulations for testing, maintains formulation lab equipment, supports formulation development studies. Reliable technician with excellent organizational skills, known for careful sample preparation and maintaining high-quality lab standards."
+            
+            - id: "emp_034"
+              name: "Grace Kim"
+              role: "Technician, Formulation Sciences"
+              identity_context: "B.S. in Chemistry from University of California, San Diego (2021) with A.S. in Chemistry from San Diego Mesa College (2019). Technician in Formulation Sciences at NexGen since 2021, previously lab assistant at UC San Diego. Expert in chemical analysis and sample preparation, equipment operation and maintenance, data collection and analysis, laboratory inventory management, and quality assurance procedures. Conducts routine formulation testing, maintains chemical inventory and supplies, supports formulation development studies. Detail-oriented technician with strong chemistry background, known for maintaining equipment and ensuring smooth formulation operations."
+    
+    - name: "Research Operations & Support"
+      identity_context: "Research Operations & Support staff providing essential services across all divisions including operations management, laboratory management, project coordination, safety, and IT support. 6 staff members supporting the entire R&D organization."
+      
+      teams:
+        - name: "Operations & Support Team"
+          identity_context: "Operations and support team providing essential services including research operations management, laboratory management, project coordination, environmental health and safety, and IT/data support across all divisions."
+          
+          employees:
+            - id: "emp_052"
+              name: "Dr. Christine Larson"
+              role: "Manager, Research Operations"
+              identity_context: "Ph.D. Biochemistry from University of Wisconsin-Madison (2010) with B.S. in Biology from University of Minnesota (2005). Manager of Research Operations at NexGen since 2019, previously Senior Manager at Vertex Pharmaceuticals (2015-2019), Manager at Biogen (2012-2015). Expert in research operations management, laboratory management, project coordination, budget management, and process optimization. Manages research operations across all divisions, coordinates cross-functional projects, oversees budget allocation and resource planning, manages vendor relationships and contracts. Organized manager with strong operational background, known for efficient project coordination and excellent communication skills."
+            
+            - id: "emp_053"
+              name: "Dr. Peter Hughes"
+              role: "Laboratory Manager"
+              identity_context: "Ph.D. Chemistry from UC Berkeley (2012) with B.S. in Chemistry from UCLA (2007). Laboratory Manager at NexGen since 2019, previously Senior Lab Manager at Genentech (2015-2019), Lab Manager at Amgen (2012-2015). Expert in laboratory management, equipment maintenance and calibration, safety protocols, inventory management, and vendor relations. Manages all laboratory facilities and equipment, oversees equipment maintenance and calibration, coordinates laboratory safety protocols, manages chemical and reagent inventory. Detail-oriented manager with strong technical background, known for maintaining high-quality laboratory standards and excellent equipment management."
+            
+            - id: "emp_054"
+              name: "Angela White"
+              role: "Research Coordinator"
+              identity_context: "M.S. Project Management from Northeastern University (2018) with B.S. in Biology from Boston University (2016). Research Coordinator at NexGen since 2019, previously Project Coordinator at Boston University (2017-2019), Research Assistant at Northeastern University (2016-2017). Expert in project coordination, research administration, data management, communication and documentation, and process improvement. Coordinates research projects across divisions, manages research documentation and reporting, facilitates communication between teams, supports project planning and execution. Organized coordinator with strong communication skills, known for excellent project management and documentation."
+            
+            - id: "emp_055"
+              name: "Terrence Jackson"
+              role: "Research Coordinator"
+              identity_context: "M.S. Business Administration from University of Massachusetts Boston (2018) with B.S. in Chemistry from University of Massachusetts Amherst (2016). Research Coordinator at NexGen since 2019, previously Project Coordinator at UMass Boston (2017-2019), Research Assistant at UMass Amherst (2016-2017). Expert in project coordination, research administration, budget tracking, vendor management, and process optimization. Coordinates preclinical development projects, manages vendor relationships and contracts, tracks project budgets and timelines, supports regulatory documentation. Efficient coordinator with strong business background, known for excellent budget management and vendor relations."
+            
+            - id: "emp_056"
+              name: "Monica Reyes"
+              role: "EH&S Specialist"
+              identity_context: "M.S. Environmental Health from UC Berkeley (2018) with B.S. in Chemistry from UC Davis (2016). EH&S Specialist at NexGen since 2019, previously Environmental Specialist at UC Berkeley (2017-2019), Lab Safety Coordinator at UC Davis (2016-2017). Expert in environmental health and safety, chemical safety protocols, waste management, safety training, and regulatory compliance. Manages environmental health and safety programs, conducts safety training for all staff, oversees chemical waste management, ensures regulatory compliance. Detail-oriented safety specialist with strong regulatory background, known for thorough safety protocols and excellent training capabilities."
+            
+            - id: "emp_057"
+              name: "Kevin Martinez"
+              role: "IT/Data Support"
+              identity_context: "M.S. Computer Science from UC San Diego (2019) with B.S. in Computer Science from UCLA (2017). IT/Data Support at NexGen since 2020, previously Systems Administrator at UC San Diego (2018-2020), IT Support Specialist at UCLA (2017-2018). Expert in IT infrastructure management, data management and storage, network administration, database management, and technical support. Manages IT infrastructure and systems, provides technical support to all staff, oversees data storage and backup systems, supports computational research teams. Technical specialist with strong problem-solving skills, known for excellent technical support and system management."
+
+# Demo scenario
+demo_scenario:
+  requirements: |
+    We need to build a cross-functional drug discovery team for a new kinase inhibitor program with the following requirements:
+    - Medicinal chemistry expertise in kinase inhibitor design and structure-based drug discovery
+    - Biology capabilities for target validation and mechanism of action studies
+    - Computational chemistry support for molecular modeling and property predictions
+    - DMPK expertise for ADME optimization and brain penetration studies
+    - Experience with PROTAC design and degradation assays
+    - Strong track record in oncology drug discovery programs
+    
+    Looking for 5 people who can handle the full drug discovery pipeline,
+    from target validation through lead optimization to preclinical candidate selection.
+  
+  team_size: 5

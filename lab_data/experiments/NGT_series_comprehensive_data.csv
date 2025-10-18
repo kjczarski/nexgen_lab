@@ -1,0 +1,32 @@
+Compound_ID,Synthesis_Date,Scientist,Yield_Percent,Purity_Percent,MW,LogP,PSA,HBD,HBA,EGFR_IC50_nM,Cell_IC50_nM,Brain_Plasma_Ratio,Microsomal_Stability_Percent,hERG_IC50_uM,Solubility_uM,Status,Notes
+NGT-140,2025-02-15,Sarah Chen,18.5,95.2,445.2,3.1,78.5,2,5,2.3,18.5,0.4,45,8.2,12,Archived,Poor brain penetration
+NGT-141,2025-02-20,Sarah Chen,22.1,96.8,451.3,2.9,82.1,2,6,1.8,15.2,0.6,52,12.5,18,Archived,Improved but still low brain penetration
+NGT-142,2025-02-25,Sarah Chen,19.8,94.5,467.4,2.7,85.7,2,7,1.2,11.8,0.8,67,15.8,25,Archived,Better brain penetration
+NGT-143,2025-03-01,Sarah Chen,21.3,97.1,483.5,2.5,89.3,2,8,0.9,9.4,1.2,78,22.1,32,Archived,Good brain penetration
+NGT-144,2025-03-05,Sarah Chen,20.7,95.9,475.6,2.6,87.1,2,7,1.1,10.2,1.0,71,18.9,28,Archived,Moderate brain penetration
+NGT-145,2025-03-08,Sarah Chen,17.2,96.3,491.7,2.4,91.9,2,9,0.7,8.1,1.4,82,28.5,38,Archived,Excellent brain penetration
+NGT-146,2025-03-10,Sarah Chen,18.9,95.7,487.8,2.5,90.5,2,8,0.8,8.9,1.3,79,25.2,35,Archived,Very good brain penetration
+NGT-147,2025-03-12,Sarah Chen,23.0,98.5,456.5,2.8,89.2,2,6,0.8,12.0,1.8,85,>30,45,Active,LEAD COMPOUND - Excellent profile
+NGT-148,2025-03-15,Sarah Chen,16.8,94.1,472.9,2.7,87.8,2,7,1.5,16.3,0.9,58,14.7,22,Archived,Poor solubility
+NGT-149,2025-03-18,Sarah Chen,15.2,93.6,488.1,3.0,85.4,2,6,2.1,19.8,0.5,41,9.8,15,Archived,Too lipophilic
+NGT-150,2025-03-20,Sarah Chen,19.1,95.3,464.7,2.9,86.2,2,6,1.9,17.2,0.7,49,11.3,19,Archived,Moderate profile
+NGT-151,2025-03-22,Sarah Chen,20.4,96.7,480.3,2.6,88.6,2,7,1.3,13.5,1.1,73,20.4,31,Archived,Good profile
+NGT-152,2025-03-25,Sarah Chen,18.7,95.1,496.4,2.8,90.2,2,8,1.6,14.8,0.8,62,16.9,26,Archived,Moderate profile
+NGT-153,2025-03-28,Sarah Chen,14.9,92.8,452.8,3.2,77.8,2,5,2.4,21.5,0.3,38,7.5,11,Archived,Poor brain penetration
+NGT-154,2025-03-30,Sarah Chen,21.6,96.9,468.9,2.7,89.1,2,7,1.7,15.9,0.9,65,19.2,29,Archived,Good profile
+NGT-155,2025-04-01,Sarah Chen,22.3,97.4,484.2,2.5,91.5,2,8,1.4,12.7,1.2,76,23.8,34,Archived,Very good profile
+NGT-156,2025-04-03,Sarah Chen,17.8,94.7,500.5,2.9,93.1,2,9,1.8,16.1,0.6,54,13.1,21,Archived,Moderate profile
+NGT-157,2025-04-05,Sarah Chen,16.4,93.2,516.7,3.1,95.7,2,10,2.0,18.7,0.4,46,10.6,17,Archived,Poor brain penetration
+NGT-158,2025-04-08,Sarah Chen,19.5,96.1,532.8,2.4,97.3,2,11,1.1,10.8,1.3,81,26.9,37,Archived,Excellent profile
+NGT-159,2025-04-10,Sarah Chen,18.2,95.4,548.9,2.8,99.9,2,12,1.6,14.2,0.8,63,17.5,27,Archived,Good profile
+NGT-160,2025-04-12,Sarah Chen,20.8,97.2,564.2,2.6,101.5,2,13,1.3,11.9,1.1,74,21.3,33,Archived,Very good profile
+NGT-161,2025-04-15,Sarah Chen,17.3,94.8,580.3,2.9,103.1,2,14,1.7,15.6,0.7,57,15.7,24,Archived,Moderate profile
+NGT-162,2025-04-18,Sarah Chen,16.7,93.9,596.4,3.0,104.7,2,15,1.9,17.3,0.5,43,12.4,18,Archived,Poor brain penetration
+NGT-163,2025-04-20,Sarah Chen,21.1,96.8,612.5,2.7,106.3,2,16,1.4,13.1,1.0,69,18.6,28,Archived,Good profile
+NGT-164,2025-04-22,Sarah Chen,18.9,95.6,628.6,2.8,107.9,2,17,1.6,14.7,0.9,61,16.2,25,Archived,Moderate profile
+NGT-165,2025-04-25,Sarah Chen,19.7,96.3,644.7,2.5,109.5,2,18,1.2,10.5,1.2,77,22.8,36,Archived,Excellent profile
+NGT-166,2025-04-28,Sarah Chen,17.4,94.2,660.8,2.9,111.1,2,19,1.8,16.2,0.6,55,14.9,22,Archived,Moderate profile
+NGT-167,2025-05-01,Sarah Chen,20.3,97.1,676.9,2.6,112.7,2,20,1.5,12.8,1.1,72,19.7,30,Archived,Very good profile
+NGT-168,2025-05-03,Sarah Chen,16.8,93.7,693.0,3.1,114.3,2,21,2.1,19.4,0.4,39,11.2,16,Archived,Poor brain penetration
+NGT-169,2025-05-05,Sarah Chen,18.6,95.9,709.1,2.7,115.9,2,22,1.7,15.1,0.8,64,17.3,26,Archived,Good profile
+NGT-170,2025-05-08,Sarah Chen,19.2,96.5,725.2,2.8,117.5,2,23,1.6,14.6,0.9,58,15.8,24,Archived,Moderate profile

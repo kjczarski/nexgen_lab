@@ -1,0 +1,66 @@
+CRO STUDY TRACKING - Q3 2025
+============================
+
+CRO: Charles River Laboratories
+Study: NGT-147 2-Week Rat Toxicity Study
+Study ID: CRL-2025-0415
+Lead: Dr. Margaret Sullivan
+Coordinator: Terrence Jackson
+
+STUDY STATUS: IN PROGRESS
+Start Date: September 1, 2025
+Target Completion: September 15, 2025
+Current Status: Week 1 Complete
+
+STUDY DESIGN:
+- Species: Sprague-Dawley rats
+- Groups: 4 (Vehicle, 10, 30, 100 mg/kg)
+- Animals per group: 10 (5M, 5F)
+- Route: Oral gavage
+- Duration: 14 days
+- Endpoints: Clinical observations, body weight, food consumption, clinical pathology, histopathology
+
+WEEKLY UPDATES:
+
+Week 1 (Sept 1-7):
+- All animals dosed successfully
+- No mortality
+- No clinical observations
+- Body weight gain normal
+- Food consumption normal
+- Interim necropsy: 2 animals per group (scheduled)
+
+Week 2 (Sept 8-14):
+- Ongoing dosing
+- Clinical observations: None
+- Body weight: Normal growth
+- Food consumption: Normal
+- Final necropsy: Scheduled Sept 15
+
+PRELIMINARY RESULTS:
+- No treatment-related effects observed
+- Body weight gain comparable to controls
+- Food consumption normal
+- Clinical pathology: Pending
+- Histopathology: Pending
+
+NEXT STEPS:
+- Complete Week 2 dosing
+- Final necropsy and sample collection
+- Clinical pathology analysis
+- Histopathology evaluation
+- Draft report preparation
+
+RISK ASSESSMENT:
+- Low risk based on Week 1 data
+- No safety concerns identified
+- Study on track for completion
+
+CONTACT:
+- CRO Study Director: Dr. Jennifer Smith
+- NexGen Lead: Dr. Margaret Sullivan
+- Coordinator: Terrence Jackson
+
+Margaret Sullivan
+9/7/2025
+

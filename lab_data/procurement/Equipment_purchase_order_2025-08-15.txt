@@ -1,0 +1,71 @@
+EQUIPMENT PURCHASE ORDER - Q3 2025
+==================================
+
+Order ID: PO-2025-0815
+Date: August 15, 2025
+Requested by: Dr. Carlos Mendez
+Approved by: Dr. Michael Torres
+Budget: $125,000
+
+EQUIPMENT REQUESTED:
+
+1. Agilent 1290 Infinity II UPLC System
+   - Model: 1290 Infinity II
+   - Quantity: 1
+   - Price: $85,000
+   - Justification: Replace aging UPLC system, support CDK2 screening
+   - Delivery: 4 weeks
+
+2. Tecan Spark 20M Microplate Reader
+   - Model: Spark 20M
+   - Quantity: 1
+   - Price: $25,000
+   - Justification: High-throughput screening support
+   - Delivery: 3 weeks
+
+3. Eppendorf Centrifuge 5424
+   - Model: 5424
+   - Quantity: 2
+   - Price: $8,000 each
+   - Justification: Sample processing for screening
+   - Delivery: 2 weeks
+
+4. Labconco Fume Hood
+   - Model: Protector XStream
+   - Quantity: 1
+   - Price: $15,000
+   - Justification: Additional synthesis capacity
+   - Delivery: 6 weeks
+
+BUDGET BREAKDOWN:
+- Equipment: $125,000
+- Installation: $5,000
+- Training: $3,000
+- Total: $133,000
+
+JUSTIFICATION:
+- CDK2 screening program expansion
+- Increased synthesis capacity needed
+- Aging equipment replacement
+- Safety improvements
+
+APPROVAL PROCESS:
+- Carlos Mendez: Initial request
+- Michael Torres: Division approval
+- Patricia O'Brien: Budget approval
+- Rebecca Chao: Final approval
+
+DELIVERY SCHEDULE:
+- Week 1: Centrifuges (2 units)
+- Week 3: Microplate reader
+- Week 4: UPLC system
+- Week 6: Fume hood
+
+INSTALLATION:
+- Vendor: Agilent Technologies
+- Technician: John Smith
+- Duration: 2 days per system
+- Training: 1 day per system
+
+Carlos Mendez
+8/15/2025

@@ -1,0 +1,38 @@
+Experiment_ID,Date,Compound_ID,Scientist,Experiment_Type,Failure_Reason,Lessons_Learned,Status
+EXP-2025-0701,2025-07-01,BTK-001,Jennifer Martinez,PROTAC Synthesis,Low yield (5%),Poor linker chemistry,Archived
+EXP-2025-0703,2025-07-03,BTK-002,Jennifer Martinez,PROTAC Synthesis,No degradation,Weak E3 ligase binding,Archived
+EXP-2025-0705,2025-07-05,NGT-148,Sarah Chen,Medicinal Chemistry,Poor solubility (8 uM),Too lipophilic,Archived
+EXP-2025-0708,2025-07-08,CDK2-005,Carlos Mendez,Screening,High cytotoxicity,Off-target effects,Archived
+EXP-2025-0710,2025-07-10,BTK-004,Jennifer Martinez,PROTAC Synthesis,No degradation,Linker too short,Archived
+EXP-2025-0712,2025-07-12,NGT-149,Sarah Chen,Medicinal Chemistry,hERG liability (IC50=5 uM),Cardiac risk,Archived
+EXP-2025-0715,2025-07-15,CDK2-008,Carlos Mendez,Screening,Poor selectivity,CDK1 inhibition,Archived
+EXP-2025-0718,2025-07-18,BTK-005,Jennifer Martinez,PROTAC Synthesis,Low yield (12%),Difficult purification,Archived
+EXP-2025-0720,2025-07-20,NGT-150,Sarah Chen,Medicinal Chemistry,Metabolic instability (25%),CYP3A4 substrate,Archived
+EXP-2025-0722,2025-07-22,CDK2-012,Carlos Mendez,Screening,No cell activity,Low permeability,Archived
+EXP-2025-0725,2025-07-25,BTK-006,Jennifer Martinez,PROTAC Synthesis,No degradation,Weak target binding,Archived
+EXP-2025-0728,2025-07-28,NGT-151,Sarah Chen,Medicinal Chemistry,Poor brain penetration (0.2),Too polar,Archived
+EXP-2025-0730,2025-07-30,CDK2-015,Carlos Mendez,Screening,High cytotoxicity,Apoptosis induction,Archived
+EXP-2025-0802,2025-08-02,BTK-007,Jennifer Martinez,PROTAC Synthesis,No degradation,Linker too long,Archived
+EXP-2025-0805,2025-08-05,NGT-152,Sarah Chen,Medicinal Chemistry,hERG liability (IC50=8 uM),Cardiac risk,Archived
+EXP-2025-0808,2025-08-08,CDK2-018,Carlos Mendez,Screening,Poor solubility (15 uM),Crystallization issues,Archived
+EXP-2025-0810,2025-08-10,BTK-008,Jennifer Martinez,PROTAC Synthesis,Low yield (8%),Difficult synthesis,Archived
+EXP-2025-0812,2025-08-12,NGT-153,Sarah Chen,Medicinal Chemistry,Metabolic instability (30%),CYP2D6 substrate,Archived
+EXP-2025-0815,2025-08-15,CDK2-020,Carlos Mendez,Screening,No cell activity,Low permeability,Archived
+EXP-2025-0818,2025-08-18,BTK-009,Jennifer Martinez,PROTAC Synthesis,No degradation,Weak ternary complex,Archived
+EXP-2025-0820,2025-08-20,NGT-154,Sarah Chen,Medicinal Chemistry,Poor brain penetration (0.3),Too polar,Archived
+EXP-2025-0822,2025-08-22,CDK2-022,Carlos Mendez,Screening,High cytotoxicity,Off-target effects,Archived
+EXP-2025-0825,2025-08-25,BTK-010,Jennifer Martinez,PROTAC Synthesis,Low yield (6%),Poor linker chemistry,Archived
+EXP-2025-0828,2025-08-28,NGT-155,Sarah Chen,Medicinal Chemistry,hERG liability (IC50=6 uM),Cardiac risk,Archived
+EXP-2025-0830,2025-08-30,CDK2-025,Carlos Mendez,Screening,Poor selectivity,CDK4 inhibition,Archived
+EXP-2025-0902,2025-09-02,BTK-011,Jennifer Martinez,PROTAC Synthesis,No degradation,Weak E3 ligase binding,Archived
+EXP-2025-0905,2025-09-05,NGT-156,Sarah Chen,Medicinal Chemistry,Metabolic instability (35%),CYP3A4 substrate,Archived
+EXP-2025-0908,2025-09-08,CDK2-028,Carlos Mendez,Screening,No cell activity,Low permeability,Archived
+EXP-2025-0910,2025-09-10,BTK-012,Jennifer Martinez,PROTAC Synthesis,Low yield (9%),Difficult purification,Archived
+EXP-2025-0912,2025-09-12,NGT-157,Sarah Chen,Medicinal Chemistry,Poor brain penetration (0.4),Too polar,Archived
+EXP-2025-0915,2025-09-15,CDK2-035,Carlos Mendez,Screening,High cytotoxicity,Apoptosis induction,Archived
+EXP-2025-0918,2025-09-18,BTK-013,Jennifer Martinez,PROTAC Synthesis,No degradation,Weak target binding,Archived
+EXP-2025-0920,2025-09-20,NGT-158,Sarah Chen,Medicinal Chemistry,hERG liability (IC50=7 uM),Cardiac risk,Archived
+EXP-2025-0922,2025-09-22,CDK2-032,Carlos Mendez,Screening,Poor solubility (15 uM),Crystallization issues,Archived
+EXP-2025-0925,2025-09-25,BTK-014,Jennifer Martinez,PROTAC Synthesis,Low yield (7%),Poor linker chemistry,Archived
+EXP-2025-0928,2025-09-28,NGT-159,Sarah Chen,Medicinal Chemistry,Metabolic instability (40%),CYP2D6 substrate,Archived
+EXP-2025-0930,2025-09-30,CDK2-035,Carlos Mendez,Screening,No cell activity,Low permeability,Archived

@@ -1,0 +1,32 @@
+Chemical_Name,CAS_Number,Location,Quantity_g,Supplier,Date_Received,Expiry_Date,Status,Notes
+4-Chloro-6-methoxyquinazoline,16357-59-8,Building B Lab Bay 1,250.5,Sigma-Aldrich,2025-08-15,2027-08-15,Good,NGT-147 synthesis
+3-Fluoro-4-aminophenol,399-95-1,Building B Lab Bay 1,180.2,Thermo Fisher,2025-09-01,2027-09-01,Good,Standard building block
+4-(2-Methoxyethoxy)phenylboronic acid,182344-12-9,Building B Lab Bay 2,95.8,Combi-Blocks,2025-08-20,2027-08-20,Good,NGT-147 synthesis
+2-Fluoro-4-aminophenol,399-94-0,Building B Lab Bay 1,320.1,Sigma-Aldrich,2025-09-10,2027-09-10,Good,NGT-147 synthesis
+Staurosporine,62996-74-1,Building A Lab Bay 2,5.2,LC Laboratories,2025-07-15,2026-07-15,Low,CDK2 screening control
+DMSO,67-68-5,Building A Lab Bay 1,5000.0,Sigma-Aldrich,2025-08-01,2027-08-01,Good,Screening solvent
+HP-β-CD,128446-35-5,Building B Lab Bay 3,1000.0,TCI America,2025-09-05,2027-09-05,Good,NGT-147 formulation
+PBS Buffer,7732-18-5,Building A Lab Bay 1,2000.0,Thermo Fisher,2025-09-01,2026-09-01,Good,Assay buffer
+EtOAc,141-78-6,Building B Lab Bay 1,5000.0,Sigma-Aldrich,2025-08-10,2027-08-10,Good,Synthesis solvent
+Hexanes,110-54-3,Building B Lab Bay 1,3000.0,Sigma-Aldrich,2025-08-10,2027-08-10,Good,Synthesis solvent
+Acetonitrile,75-05-8,Building A Lab Bay 1,2000.0,Thermo Fisher,2025-09-01,2027-09-01,Good,HPLC mobile phase
+Methanol,67-56-1,Building A Lab Bay 1,1500.0,Thermo Fisher,2025-09-01,2027-09-01,Good,HPLC mobile phase
+Water,7732-18-5,Building A Lab Bay 1,1000.0,Thermo Fisher,2025-09-01,2026-09-01,Good,HPLC mobile phase
+Tris Buffer,77-86-1,Building A Lab Bay 2,500.0,Sigma-Aldrich,2025-08-15,2027-08-15,Good,Assay buffer
+MgCl2,7786-30-3,Building A Lab Bay 2,200.0,Sigma-Aldrich,2025-08-15,2027-08-15,Good,Assay buffer
+ATP,56-65-5,Building A Lab Bay 2,50.0,Sigma-Aldrich,2025-09-01,2026-09-01,Low,CDK2 assay substrate
+TR-FRET Detection Kit,NA,Building A Lab Bay 2,10.0,PerkinElmer,2025-08-20,2026-08-20,Good,CDK2 screening
+Cell Culture Media,NA,Building A Lab Bay 1,1000.0,Thermo Fisher,2025-09-01,2026-09-01,Good,Cell assays
+Fetal Bovine Serum,NA,Building A Lab Bay 1,500.0,Thermo Fisher,2025-09-01,2026-09-01,Good,Cell culture
+Trypsin,9002-07-7,Building A Lab Bay 1,100.0,Thermo Fisher,2025-09-01,2026-09-01,Good,Cell culture
+Penicillin-Streptomycin,NA,Building A Lab Bay 1,200.0,Thermo Fisher,2025-09-01,2026-09-01,Good,Cell culture
+DAPI,28718-90-3,Building A Lab Bay 2,10.0,Thermo Fisher,2025-08-15,2027-08-15,Good,Cell staining
+Hoechst 33342,23491-52-3,Building A Lab Bay 2,5.0,Thermo Fisher,2025-08-15,2027-08-15,Good,Cell staining
+Paraformaldehyde,30525-89-4,Building A Lab Bay 2,100.0,Sigma-Aldrich,2025-08-15,2027-08-15,Good,Cell fixation
+Triton X-100,9002-93-1,Building A Lab Bay 2,200.0,Sigma-Aldrich,2025-08-15,2027-08-15,Good,Cell permeabilization
+BSA,9048-46-8,Building A Lab Bay 2,100.0,Sigma-Aldrich,2025-08-15,2027-08-15,Good,Blocking agent
+Primary Antibody Anti-BTK,NA,Building A Lab Bay 2,1.0,Cell Signaling,2025-09-01,2026-09-01,Good,BTK degradation assay
+Secondary Antibody Anti-Rabbit,NA,Building A Lab Bay 2,1.0,Cell Signaling,2025-09-01,2026-09-01,Good,BTK degradation assay
+Western Blot Ladder,NA,Building A Lab Bay 2,5.0,Bio-Rad,2025-08-20,2026-08-20,Good,Protein analysis
+PVDF Membrane,NA,Building A Lab Bay 2,10.0,Bio-Rad,2025-08-20,2026-08-20,Good,Western blotting
+ECL Substrate,NA,Building A Lab Bay 2,5.0,Thermo Fisher,2025-08-20,2026-08-20,Good,Western blotting

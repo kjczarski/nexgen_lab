@@ -1,0 +1,38 @@
+From: s.chen@nexgentherapeutics.com
+To: l.wu@nexgentherapeutics.com, r.foster@nexgentherapeutics.com
+Subject: NGT-147 crystal structure - AMAZING results!
+Date: March 20, 2025 2:15 PM
+
+Linda, Rachel,
+
+Just got the crystal structure back from our collaborators at UCSF. 
+NGT-147 bound to EGFR is BEAUTIFUL!
+
+Key findings:
+- Perfect fit in the ATP binding site
+- Hydrogen bonds exactly where Linda predicted
+- The 2-methoxyethoxy group creates nice hydrophobic interactions
+- No clashes, clean binding mode
+
+This explains why we're getting such good potency (0.8 nM IC50).
+The fluorine positioning is spot-on for selectivity.
+
+Rachel - this should help with your mechanism of action studies.
+The binding mode suggests it should work well in your PDX models.
+
+Linda - your FEP calculations were within 0.3 kcal/mol of the crystal structure!
+This is validation that our computational approach is working.
+
+Next steps:
+- Submit structure to PDB (will be 8XYZ)
+- Use for patent applications
+- Design next generation analogs
+
+Sarah
+
+P.S. - Jennifer Martinez is asking about PROTAC linker attachment points. 
+Can you model the ternary complex for BTK-003? She's getting close!
+
+---
+Attachment: NGT-147_EGFR_crystal_structure.pdf
+

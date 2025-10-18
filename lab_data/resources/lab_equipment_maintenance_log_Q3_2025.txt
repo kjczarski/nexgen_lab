@@ -1,0 +1,58 @@
+LAB EQUIPMENT MAINTENANCE LOG - Q3 2025
+========================================
+
+Equipment: Agilent 1290 Infinity II UPLC
+Location: Building B, Floor 1, Lab Bay 1
+Responsible: Peter Hughes (Lab Manager)
+Technician: Amy Chen (Screening)
+
+MAINTENANCE SCHEDULE:
+- Daily: System check, pressure test
+- Weekly: Column performance test
+- Monthly: Full system calibration
+- Quarterly: Preventive maintenance service
+
+Q3 2025 MAINTENANCE RECORD:
+
+July 2025:
+- 7/5: Column replaced (Waters XBridge C18, 3.5μm, 4.6x150mm)
+- 7/12: Pump seal replaced (preventive)
+- 7/18: Detector lamp replaced (routine)
+- 7/25: System calibration - all parameters within spec
+
+August 2025:
+- 8/2: Minor leak in mobile phase line - fixed
+- 8/9: Column performance test - excellent
+- 8/16: Autosampler maintenance - cleaned
+- 8/23: System check - all OK
+- 8/30: Quarterly service by Agilent technician
+
+September 2025:
+- 9/6: Column backpressure increased - replaced
+- 9/13: System calibration - within spec
+- 9/20: Detector sensitivity test - excellent
+- 9/27: Monthly maintenance completed
+
+ISSUES RESOLVED:
+- Mobile phase leak (8/2) - replaced fitting
+- High backpressure (9/6) - column replacement
+- Minor autosampler drift - recalibrated
+
+DOWNTIME:
+- Total downtime Q3: 4.5 hours
+- Planned maintenance: 2 hours
+- Unplanned repairs: 2.5 hours
+- Availability: 99.2%
+
+NEXT QUARTER:
+- Q4 service scheduled: October 15
+- Column replacement due: November
+- Lamp replacement due: December
+
+NOTES:
+System performing excellently. No major issues. 
+Supporting all discovery programs effectively.
+NGT-147 analysis completed successfully.
+
+Peter Hughes
+9/30/2025
